@@ -6,7 +6,8 @@ body_classes: homepage
 banner:
     headline: Solarize
     follower: 'Design by Templated'
-    blurb: 'Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus.'
+    # blurb: 'Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar mollis. Vestibulum sem magna.'
+    # url: 'user/themes/solarize/images/header_forest-1680x600.jpg'
     url: 'user/themes/solarize/images/header_kitten-1680x600.jpg'
 
 hook:
