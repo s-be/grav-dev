@@ -11,7 +11,7 @@ sitemap:
 taxonomy:
    tag: imprint
 ---
-### mysite.com
+### juedisch.info / jüdisch.info
 <div class="a-color-text" markdown="1">
 Jane Q. Public
 Main Road 555
@@ -27,6 +27,12 @@ USt-ID: DE 000 000 009
 **Verantwortlich für den Inhalt nach §18 Abs. 2 MStV / V.i.S.d.P.:**
 [//]: # (**Responsible under Press Law:**)
 Julie Citizen, Hillside 9, 50555 Capitol City
+</div>
+
+### Förderung {#attribution .pt-3}
+<div class="a-color-text" markdown="1">
+Dieses Projekt wurde aus Mitteln des [US Department of State](https://www.state.gov/about/) gefördert.
+Die Verantwortung für den Inhalt liegt vollständig bei der Projektleitung.
 </div>
 
 ### Attribution {#attribution .pt-3}
@@ -83,7 +89,7 @@ Bei Kontaktaufnahme per Post oder E-Mail werden lediglich solche Daten gespeiche
 
 #### Rechtsgrundlage
 
-Die Datenverarbeitung erfolgt auf Grundlage Art. 6 Abs. 1 DSGVO jeweils im Einzelfall.
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 DSGVO, jeweils den Einzelfall betreffend.
 
 #### Widerrufsbelehrung
 
