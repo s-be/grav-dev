@@ -29,7 +29,7 @@ footer:
     privacy:
       title: 'Datenschutz'
       id: '#datenschutz'
-    imprint:
+    notice:
       title: 'Impressum'
     #  id: ''
 # do not remove taxonomy tag (identifier required in templates/partials/footer.html.twig)
