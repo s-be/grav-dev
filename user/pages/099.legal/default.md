@@ -96,7 +96,7 @@ Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 DSGVO, jeweils den
 
 #### Widerrufsbelehrung
 
-Ein Widerruf ist postalisch (siehe Impressum) oder per E-Mail an <a href="javascript:location='mailto:\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f';void 0"><script type="text/javascript">document.write('\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f')</script></a> jederzeit möglich. Vorhandene Daten werden daraufhin zeitnah und unwiederbringlich gelöscht.
+Ein Widerruf ist postalisch (siehe Impressum) oder per E-Mail an <a href="javascript:location='mailto:\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f';void 0"><script type="text/javascript">document.write('\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f')</script></a> jederzeit möglich. Daraufhin werden vorhandene Daten werden zeitnah und unwiederbringlich gelöscht.
 
 
 </div>
