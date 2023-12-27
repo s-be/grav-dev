@@ -42,8 +42,8 @@ Die inhaltliche Verantwortung liegt vollständig bei der Projektleitung.
 [//]: # (Attribution required: Please keep attributions below intact to stay compliant with the licensing agreements and to give back to the community)
 <div class="a-color-text" markdown="1">
 * Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, <br>insofern auf diese Quelle, etwaige Modifikationen und Lizenz verwiesen wird - [juedisch.info](https://juedisch.info) / [CC by 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/)
-* Fotos mit freundlicher Genehmigung von [Jonas Wimmerström](https://cupcake.nilssonlee.se/) unter der [Creative Commons License CC0](https://creativecommons.org/public-domain/cc0/)
-* Design Solarize von [Templated](https://templated.co) unter der [CCA 3.0 License](https://templated.co/license)
+* Titelbild mit freundlicher Genehmigung von [Jonas Wimmerström](https://cupcake.nilssonlee.se/) unter der [Creative Commons License CC0](https://creativecommons.org/public-domain/cc0/)
+* Design inspiriert durch "Solarize" von [templated.co](https://templated.co) unter der [CCA 3.0 License](https://templated.co/license)
 * Basierend auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
 * Font Awesome 4.0.3 von @davegandy - [https://fontawesome.io](http://fontawesome.io) - @fontawesome
 Lizenz - [https://fontawesome.io/license](http://fontawesome.io/license) (Font: SIL OFL 1.1, CSS: MIT License)
