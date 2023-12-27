@@ -24,8 +24,8 @@ footer:
         icon: fa fa-tags
         url: '#'
   legal:
-    attribution:
-      title: 'Attribution'
+    credits:
+      title: 'Förderung'
       id: '#foerderung'
     privacy:
       title: 'Datenschutz'
