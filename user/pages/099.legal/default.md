@@ -38,11 +38,10 @@ Dieses Projekt wird aus Mitteln des [US Department of State](https://www.state.g
 Die inhaltliche Verantwortung liegt vollständig bei der Projektleitung.
 </div>
 
-### Urheber {#urheber .pt-3}
+### Urheberangaben {#urheber .pt-3}
 [//]: # (Attribution required: Please keep attributions below intact to stay compliant with the licensing agreements and to give back to the community)
 <div class="a-color-text" markdown="1">
-* Alle Texte dieses Internetangebots stehen zur freien Verwendung, inkl. Vervielfältigung
-   * insofern auf diese Quelle, etwaige Modifikationen und Lizenz verwiesen wird - [juedisch.info](https://juedisch.info) / [CC by 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/)
+* Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, <br>insofern auf diese Quelle, etwaige Modifikationen und Lizenz verwiesen wird - [juedisch.info](https://juedisch.info) / [CC by 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/)
 * Fotos mit freundlicher Genehmigung von [Jonas Wimmerström](https://cupcake.nilssonlee.se/) unter der [Creative Commons License CC0](https://creativecommons.org/public-domain/cc0/)
 * Design Solarize von [Templated](https://templated.co) unter der [CCA 3.0 License](https://templated.co/license)
 * Basierend auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
@@ -52,7 +51,7 @@ Lizenz - [https://fontawesome.io/license](http://fontawesome.io/license) (Font: 
 * Entwickelt mit [Grav](https://getgrav.org/) unter der [MIT License](https://github.com/getgrav/grav/blob/master/LICENSE.txt)
 </div>
 
-### Datenschutz {#datenschutz .pt-3}
+### Datenschutzhinweise {#datenschutz .pt-3}
 <div class="a-color-text" markdown="1">
 Diese Datenschutzerklärung gilt für jede Verarbeitung personenbezogener Daten auf juedisch.info und jüdisch.info, im Folgenden als "Internetangebot" bezeichnet.
 
