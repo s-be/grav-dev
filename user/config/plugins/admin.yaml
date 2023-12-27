@@ -1,5 +1,5 @@
 enabled: true
-route: /admin
+route: /edit
 cache_enabled: false
 twofa_enabled: false
 dashboard:
