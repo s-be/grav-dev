@@ -32,9 +32,10 @@ VAT ID: DE 000 000 009
 Julie Citizen, Hillside 9, 50555 Capitol City
 </div>
 
-### Attribution {#attribution .pt-3}
+### Credits {#credits .pt-3}
 [//]: # (Attribution required: Please keep attributions below intact to stay compliant with the licensing agreements and to give back to the community)
 <div class="a-color-text" markdown="1">
+* All content on this site is free to redistribute, given appropriate credit to the source, <br>indication of any changes and a link to the license - [mysite.com](https://mysite.com) / [CC by 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/)
 * Header image by [Jonas Wimmerström](https://cupcake.nilssonlee.se/) under the [Creative Commons License CC0](https://creativecommons.org/public-domain/cc0/)
 * Design Solarize by [Templated](https://templated.co) under the [CCA 3.0 License](https://templated.co/license)
 * Based on the [Grav Port by hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) under the [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), for modifications see [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
