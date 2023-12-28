@@ -74,7 +74,7 @@ Die Infrastruktur wird bereitgestellt durch:
 
 Für dieses Internetangebot werden serverseitig Statistiken mit anonymisierten Daten erstellt. Die Herstellung eines Personenbezugs ist nicht möglich. Die Statistik-Software ist technisch durch den Webhost eingebunden.
 
-Das berechtigte Interesse am Einsatz von Statistiken ergibt sich aus Notwendigkeit zur:
+Das berechtigte Interesse am Einsatz von Statistiken ergibt sich aus Erforderlichkeit:
 
 * Wartung: das berechtigte Interesse an der effektiven Wartung dieses Internetangebots, dem Erkennen von Fehlern und der technischen Weiterentwicklung.
 * Evaluierung: das berechtigte Interesse an der Auswertung der Nutzungsrate dieses Internetangebots zwecks Projektbewertung.
@@ -93,7 +93,7 @@ Bei Kontaktaufnahme per Post oder E-Mail werden lediglich solche Daten gespeiche
 
 #### Rechtsgrundlage
 
-Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 DSGVO, jeweils den Einzelfall betreffend.
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 Buchst. b, d DSGVO.
 
 #### Widerrufsbelehrung
 
