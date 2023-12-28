@@ -1,5 +1,5 @@
 ---
-title: 'Solarize by TEMPLATED'
+title: 'Home / Solarize'
 menu: Home
 body_classes: homepage
 # grav-plugin-sitemap overrides
@@ -9,22 +9,27 @@ sitemap:
 
 banner:
     headline: Solarize
-    follower: 'Design by Templated'
-    blurb: 'Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio.'
+    follower:
+      text: Redux
+      class: skewed
+    blurb: a performant theme for Grav CMS
     url: 'user/themes/solarize/images/header_forest-1680x600.jpg'
 
 hook:
-    teaser: 'Pellentesque viverra vulputate enim. Aliquam volutpat quintesse.'
-    byline: 'In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Donec pulvinar ullamcorper metus.'
+    teaser: Pellentesque viverra vulputate enim. Aliquam volutpat quintesse.
+    byline:
+        In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Donec pulvinar ullamcorper metus.
+        Quisque semper augue mattis.
     button:
         text: 'Nulla aluctus'
         target: '#'
 
 cta:
-    headline: 'Cras vitae metus aliNuam'
-    copy: 'Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar mollis. Vestibulum sem magna, elementum vestibulum arcu.'
+    headline: Cras vitae metus aliNuam
+    copy:
+       Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar      mollis.  Vestibulum sem magna, elementum vestibulum arcu.
     button:
-        text: 'Nulla eleifend'
+        text: Nulla eleifend
         target: '#'
 
 # Quilt/Notices: these will be rendered in a 3-column grid
