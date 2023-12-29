@@ -8,15 +8,18 @@ sitemap:
   priority: !!float 1
 
 banner:
-    headline: Solarize
-    follower:
-      text: Redux
-      class: skewed
-    blurb: a performant theme for Grav CMS
     url: 'user/themes/solarize/images/header_kitten-1680x600.jpg'
+    headline: 'Solarize'
+    follower:
+      # bold | italic | text-uppercase | skew | opacity-dark | opacity-light
+      class: 'text-uppercase'
+      text: 'Redux'
+    blurb:
+      class: 'text-uppercase'
+      text: 'a performant theme for Grav CMS'
 
 hook:
-    teaser: Pellentesque viverra vulputate enim. Aliquam volutpat quintesse.
+    teaser: 'Pellentesque viverra vulputate enim. Aliquam volutpat quintesse.'
     byline:
         In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Donec pulvinar ullamcorper metus.
         Quisque semper augue mattis.
