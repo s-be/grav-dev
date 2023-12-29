@@ -93,7 +93,7 @@ Bei Kontaktaufnahme per Post oder E-Mail werden lediglich solche Daten gespeiche
 
 #### Rechtsgrundlage
 
-Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 Buchst. b, d DSGVO.
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 Buchst. b, f DSGVO.
 
 #### Widerrufsbelehrung
 
