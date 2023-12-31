@@ -3,6 +3,7 @@ title: 'Impressum'
 # subtitle: 'Integer sit amet pede vel arcu aliquet pretium'
 slug: 'impressum'
 visible: false
+robots: noindex,nofollow
 # grav-plugin-sitemap overrides
 sitemap:
    changefreq: monthly
