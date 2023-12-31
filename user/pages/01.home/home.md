@@ -1,5 +1,5 @@
 ---
-title: 'Home / Solarize'
+title: 'Aktuell / juedisch.info'
 menu: Home
 body_classes: homepage
 # grav-plugin-sitemap overrides
@@ -7,32 +7,31 @@ sitemap:
   changefreq: weekly
   priority: !!float 1
 
-banner:
-    url: 'user/themes/solarize/images/header_kitten-1680x600.jpg'
-    headline: 'Solarize'
+# banner:
+    # url: 'user/themes/solarize/images/header_kitten-1680x600.jpg'
+    # headline: 'Solarize'
     # follower:
       # (values) bold | italic | uppercase | skew | opacity-dark | opacity-light
       # class: 'uppercase'
       # text: 'Redux'
-    blurb:
-      class: 'uppercase'
-      text: 'a performant theme for Grav CMS'
+    # blurb:
+      # class: 'uppercase'
+      # text: 'a performant theme for Grav CMS'
 
 hook:
     teaser: 'Pellentesque viverra vulputate enim. Aliquam volutpat quintesse.'
     byline:
-        In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula. Pellentesque viverra vulputate enim. Donec pulvinar ullamcorper metus.
-        Quisque semper augue mattis.
-    button:
-        text: 'Nulla aluctus'
-        target: '#'
+        Diese Webseite bietet eine informative und kompakte Übersicht über die verschiedenen Hilfs- und Vernetzungsangebote für junge Jüdinnen und Juden bei antisemitischen Anfeindungen oder Vorfällen. 
+    # button:
+        # text: 'Nulla aluctus'
+        # target: '#'
 
 cta:
-    headline: Cras vitae metus aliNuam
+    headline: Unterstützungsangebote
     copy:
        Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar      mollis.  Vestibulum sem magna, elementum vestibulum arcu.
     button:
-        text: Nulla eleifend
+        text: Finden
         target: '#'
 
 # Quilt/Notices: these will be rendered in a 3-column grid
@@ -43,11 +42,11 @@ notices:
         # first row
         - icon: fa-info color-info
           target: '#'
-          heading: 'Nulla luctus eleifend'
+          heading: 'Informieren'
           point: 'In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula pellentesque.'
         - icon: fa-shield color-info
           # target: '#'
-          heading: 'Etiam posuere augue'
+          heading: 'Definition'
           point: 'Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat liguala.'
         - icon: fa-gavel color-info
           # target: '#'
@@ -57,11 +56,11 @@ notices:
         # second row
         - icon: fa-exclamation color-primary
           # target: '#'
-          heading: 'Fusce ultrices fringilla'
+          heading: 'Vernetzen'
           point: 'Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor.'
         - icon: fa-phone color-primary
           # target: '#'
-          heading: 'Nulla luctus eleifend'
+          heading: 'Kooperationen'
           point: 'In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula pellentesque.'
         - icon: fa-map-marker color-danger        
           # icon: lightbulb-o color-warning
@@ -73,11 +72,11 @@ notices:
         - icon: fa-check-circle color-success
           # icon: check color-success
           # target: '#'
-          heading: 'Nulla luctus eleifend'
+          heading: 'Handeln'
           point: 'In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula pellentesque.'
         - icon: fa-exclamation-triangle color-warning
           # target: '#'
-          heading: 'Fusce ultrices fringilla'
+          heading: 'Selbstschutz'
           point: 'Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor.'
         - icon: fa-times-circle color-danger
           # icon: times color-danger
@@ -86,34 +85,22 @@ notices:
           point: 'Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat liguala.'
 
 portals: # could be used for: key staff, testimonials, service previews, ...
-    heading: Cras vitae metus aliNuam
+    heading: 'Über die Autorin'
     byline:
-        # class: 'normal-case'
-        text: 'pulvinar mollis. Vestibulum sem magna, elementum vestibulum arcu.'
-    items:
-        - thumbnail: person.png
-          alt: 'Molly Millions'
-          target: '#'
-          heading: 'Molly Millions'
-          teaser: 'In posuere eleifend odio quisque semper augue wisi ligula.'
-        - thumbnail: person.png
-          alt: 'Henry Dorsett Case'
-          target: '#'
-          heading: 'Henry Dorsett Case'
-          teaser: 'In posuere eleifend odio quisque semper augue wisi ligula.'
-        - thumbnail: person.png
-          alt: 'Willis Corto'
-          target: '#'
-          heading: 'Willis Corto'
-          teaser: 'In posuere eleifend odio quisque semper augue wisi ligula.'
-        - thumbnail: person.png
-          alt: 'Linda Lee'
-          target: '#'
-          heading: 'Linda Lee'
-          teaser: 'In posuere eleifend odio quisque semper augue wisi ligula.'
+        class: 'normal-case'
+        text: >
+            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Seit mehr als 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander. Zwischen 2017 und 2023 wurde sie mit dem Aufbau von SABRA betraut und war dort bis November 2023 fachliche Leiterin. Sie arbeitet aktuell bei der Friedrich-Naumann-Stiftung für die Freiheit, sowie frei als politische Bildnerin in der antisemitismuskritischen Bildungsarbeit.
+            <br><br>
+            Dieses Projekt konnte dank der Unterstützung des US-Department of State’s Bureau of Educational and Cultural Affairs, des US-Konsulats in Düsseldorf und dem Meridian International Center, die Sophie Brüss den IVLP-Impact-Award verliehen haben, realisiert werden.
+    # items:
+        # - thumbnail: person.png
+        #   alt: 'Molly Millions'
+        #  target: '#'
+        #  heading: 'Molly Millions'
+        #  teaser: 'In posuere eleifend odio quisque semper augue wisi ligula.'
 
 ---
 
 ### Suspendisse dictum porta
 
-Donec leo. Vivamus fermentum nibh in augue. Praesent a lacus at urna congue rutrum. Nulla enim eros, porttitor eu, tempus id, varius non, nibh. Vestibulum imperdiet, magna nec eleifend semper augue mattis wisi maecenas ligula nunc lectus vestibulum euismod lacinia quam nisl.
+Seit dem durch die Hamas verübten Terror auf die Bevölkerung im Süden Israels am 7. Oktober 2023 sind antisemitische Vorfälle um ein Vielfaches gestiegen. Der Bundesverband der Recherche- und Informationsstellen Antisemitismus (RIAS) registrierte zwischen dem 7. Oktober und dem 9. November 2023 durchschnittlich 29 Vorfälle am Tag, viele mit direktem Bezug auf die Massaker der Hamas. Eine Vielzahl der Vorfälle ereignet sich an Schulen und Hochschulen, jüdische Schüler*innen und Studierende fühlen sich in ihrer Lernumgebung nicht mehr sicher.
