@@ -511,7 +511,6 @@ input[type = "button"].small,
     font-size: 1.4em;
     letter-spacing: normal;
     line-height: config.$line-height-headlines;
-    text-transform: capitalize;
 }
 
 .wrapper.style2 h3,
@@ -572,7 +571,7 @@ input[type = "button"].small,
 
 #header {
     background-color: config.$color-nav-bg;
-    color: config.$color-secondary;
+    color: config.$color-nav-text;
     height: 4em;
     width: 100%;
 }
@@ -582,7 +581,7 @@ input[type = "button"].small,
 }
 
 #logo {
-    color: config.$color-secondary;
+    color: config.$color-nav-text;
     font-size: 2em;
     font-weight: 400;
     letter-spacing: 2px;
