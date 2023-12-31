@@ -7,12 +7,12 @@ $color-bg-secondary: #222222;
 
 /* COLORS */
 
-$color-primary: #005eb8;
-$color-secondary: #eeeeee;
+$color-primary: #0c5090;
+$color-secondary: #eeeeee; // f2f2f2
 $color-text: #1f1f1f;
-$color-nav-bg: #000000;
-$color-nav-text: #f2f2f2;
-$color-nav-link: color.adjust($color-nav-text, $lightness: -27%);
+$color-nav-bg: rgb(255 255 255 / 100%); // #000000;
+$color-nav-link: #1f1f1f; // #f2f2f2;
+$color-nav-text: color.adjust($color-nav-link, $lightness: + 15%);
 $color-disabled: #9e9d9d;
 
 /* ICONS */
