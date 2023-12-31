@@ -1,5 +1,7 @@
 ---
 title: Elements
+visible: false
+robots: noindex,nofollow
 sitemap:
   ignore: true
 ---
