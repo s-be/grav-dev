@@ -511,6 +511,7 @@ input[type = "button"].small,
     font-size: 1.4em;
     letter-spacing: normal;
     line-height: config.$line-height-headlines;
+    text-transform: none;
 }
 
 .wrapper.style2 h3,
@@ -770,7 +771,7 @@ input[type = "button"].small,
 
 #footer {
     background-color: config.$color-bg-secondary;
-    color: config.$color-nav-text;
+    color: config.$color-secondary;
     padding: 6em 0 2em;
     text-align: center;
 }
