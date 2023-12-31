@@ -17,20 +17,18 @@ taxonomy:
 ---
 ### juedisch.info / jüdisch.info
 <div class="a-color-text" markdown="1">
-Jane Q. Public
-Main Road 555
-50555 Capitol City
+Alexander Zolotarev
+Unter Krahnenbäumen 87
+50668 Köln
 
-Phone: 0555 - 555 555 55
 E-Mail: <a href="javascript:location='mailto:\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f';void 0"><script type="text/javascript">document.write('\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f')</script></a>
 [//]: # (https://www.email-obfuscator.com/)
 
-USt-ID: DE 000 000 009
-[//]: # (VAT ID: DE 000 000 009)
+[//]: # (USt-ID: DE 000 000 009)
 
 **Verantwortlich für den Inhalt nach §18 Abs. 2 MStV / V.i.S.d.P.:**
 [//]: # (**Responsible under Press Law:**)
-Julie Citizen, Hillside 9, 50555 Capitol City
+Sophie Brüss
 </div>
 
 ### Förderung {#foerderung .pt-3}
