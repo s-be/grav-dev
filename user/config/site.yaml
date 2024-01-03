@@ -4,33 +4,33 @@ author:
   name: sb
   email: 'dev@juedisch.info'
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    description: 'Vernetzungsangebote für junge Jüdinnen und Juden.'
 footer:
   social:
-    title: Connect with us
+    title: Newsletter
     byline:
       # (values) bold | italic | uppercase | normal-case | small
-      # class: 'normal-case'
-      text: In posuere eleifend odio quisque semper.
+      class: 'normal-case'
+      text: Drei mal jährlich Nachrichten und Berichte aus den Netzwerken per <span class="nowrap">E-Mail</span>.
     button:
       # (values) bold | italic | uppercase | normal-case | small | normal
       class: 'normal icon fa-envelope-o'
-      text: 'Quisque Semper'
-      url: '#'
-    items:
-      -
-        title: YouTube
-        icon: fa fa-youtube-play
-        url: '#'
-      -
-        title: Facebook
-        icon: fa fa-facebook
-        url: '#'
-      -
-        title: Tickets
+      text: 'Jetzt anmelden'
+      url: 'https://newsletter.juedisch.info'
+    # items:
+      # -
+        # title: YouTube
+        # icon: fa fa-youtube-play
+        # url: '#'
+      # -
+        # title: Facebook
+        # icon: fa fa-facebook
+        # url: '#'
+      # -
+        # title: Tickets
         # icon: fa fa-ticket
-        icon: fa fa-tags
-        url: '#'
+        # icon: fa fa-tags
+        # url: '#'
   legal:
     credits:
       title: 'Förderung'

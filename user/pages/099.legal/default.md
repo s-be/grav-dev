@@ -33,15 +33,15 @@ Sophie Brüss
 
 ### Förderung {#foerderung .pt-3}
 <div class="a-color-text" markdown="1">
-Dieses Projekt wird aus Mitteln des [US Department of State](https://www.state.gov/about/) gefördert.
-Die inhaltliche Verantwortung liegt vollständig bei der Projektleitung.
+Dieses Projekt konnte dank der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State’s Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben, realisiert werden.
+
+Die inhaltliche Verantwortung liegt vollständig bei der Autorin.
 </div>
 
 ### Urheberangaben {#urheber .pt-3}
 [//]: # (Attribution required: Please keep attributions below intact to stay compliant with the licensing agreements and to give back to the community)
 <div class="a-color-text" markdown="1">
 * Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, <br>insofern auf diese Quelle, etwaige Modifikationen und Lizenz verwiesen wird - [juedisch.info](https://juedisch.info) / [CC by 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/)
-* Titelbild mit freundlicher Genehmigung von [Jonas Wimmerström](https://cupcake.nilssonlee.se/) unter der [Creative Commons CC0 1.0 Universal License](https://creativecommons.org/publicdomain/zero/1.0/)
 * Design inspiriert durch "Solarize" von [templated.co](https://templated.co) unter der [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/)
 * Basierend auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
 * Font Awesome 4.0.3 von @davegandy - [https://fontawesome.io](http://fontawesome.io) - @fontawesome
@@ -86,13 +86,25 @@ Die Speicherdauer dieser Daten beträgt 1 Jahr.
 
 Weitere Informationen zu Datenspeicherung und Datensicherheit finden sich direkt beim [Webhost](https://docs.hetzner.com/de/general/general-terms-and-conditions/data-privacy-faq/).
 
+#### Newsletter
+
+Unser Newsletter erscheint ca. 3 mal jährlich zu Berichten aus den Netzwerken und verwandten Projekten.
+
+Für die Datenverarbeitung wurde ein Auftragsverarbeitungsvertrag ("AVV") mit CleverReach GmbH & Co. KG, Mühlenstr. 43, 26180 Rastede ("Servicepartner") geschlossen. Informationen zur Datensicherheit finden sich beim <a href="https://www.cleverreach.com/de-de/datensicherheit/">Servicepartner</a>.
+
+Die Anmeldung zum Newsletter erfolgt online nach dem Double-Opt-in-Verfahren. Die übermittelte E-Mail-Adresse, Anmeldequelle, sowie das Anmeldedatum werden bis auf Widerruf bei unserem Servicepartner gespeichert.
+
+Bei Abmeldung des Newsletters über den Abmeldelink am Ende jedes Newsletters werden die E-Mail-Adresse, Abmeldequelle, sowie das Abmeldedatum in eine Sperrliste aufgenommen. Alle gesperrten E-Mail-Adressen werden von zukünftigen Versendungen, Importen und Neuanmeldungen ausgeschlossen.
+
+Eine Öffnungs- oder Klicktracking findet nicht statt. Eine Weitergabe von Daten an Dritte findet nicht statt.
+
 #### Kontakt
 
 Bei Kontaktaufnahme per Post oder E-Mail werden lediglich solche Daten gespeichert, die von Nutzenden aktiv übermittelt wurden. Übermittelte Daten werden ausschließlich zur Bearbeitung der individuellen Anfrage verwendet. Die Speicherdauer kann im Einzelfall bis zu 6 Jahren betragen.
 
 #### Rechtsgrundlage
 
-Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 Buchst. b, f DSGVO.
+Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 Buchst. a, b, f DSGVO.
 
 #### Widerrufsbelehrung
 

@@ -1,5 +1,5 @@
 ---
-title: 'Aktuell / juedisch.info'
+title: 'Aktuell'
 menu: Home
 body_classes: homepage
 # grav-plugin-sitemap overrides
@@ -28,9 +28,9 @@ hook:
         # target: '#'
 
 cta:
-    headline: Unterstützungs-angebote
+    headline: Unterstützungs&shy;angebote
     copy:
-       Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar      mollis.  Vestibulum sem magna, elementum vestibulum arcu.
+       Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar mollis. Vestibulum sem magna, elementum vestibulum arcu.
     button:
         text: Finden
         target: '#'
@@ -89,12 +89,12 @@ portals: # could be used for: key staff, testimonials, service previews, ...
     heading: 'Über dieses Projekt'
     byline:
         # (values) uppercase | normal-case | small
-        class: 'normal-case small a-color-text'
+        class: 'normal-case small color-link-secondary'
         text: >
-            Dieses Projekt konnte dank der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State’s Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den IVLP-Impact-Award verliehen haben, realisiert werden.
+            Dieses Projekt konnte dank der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State’s Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben, realisiert werden.
             <br><br><br>
             <h3 class="uppercase">Über die  Autorin</h3>
-            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Zwischen 2017 und 2023 betreute sie <a href="https://www.sabra-jgd.de/">SABRA</a> als fachliche Leiterin. Sophie arbeitet aktuell bei der Friedrich-Naumann-Stiftung für die Freiheit, sowie frei als politische Bildnerin in der kritischen Bildungsarbeit. Seit mehr als 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander.
+            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Zwischen 2017 und 2023 betreute sie <a href="https://www.sabra-jgd.de/">SABRA</a> als fachliche Leiterin. Sophie arbeitet aktuell bei der <a href="https://www.freiheit.org/de">Friedrich-Naumann-Stiftung für die Freiheit</a>, sowie frei als politische Bildnerin in der kritischen Bildungsarbeit. Seit 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander.
     # items:
         # - thumbnail: person.png
         #   alt: 'Molly Millions'
@@ -106,4 +106,4 @@ portals: # could be used for: key staff, testimonials, service previews, ...
 
 ### Suspendisse dictum porta
 
-Seit den Terroranschlägen des 7. Oktober 2023 gegen die Bevölkerung Israels sind auch in Deutschladnd antisemitische Vorfälle um ein Vielfaches gestiegen. Der Bundesverband der Recherche- und Informationsstellen Antisemitismus (<a href="https://www.report-antisemitism.de/">RIAS</a>) registrierte zwischen dem 7. Oktober und dem 9. November 2023 durchschnittlich 29 Vorfälle am Tag, oft mit direktem Bezug auf die Massaker der Hamas. Eine Vielzahl der Vorfälle ereignet sich an Schulen und Hochschulen, Wir stehen dafür ein, dass jüdische Schüler*innen und Studierende in ihrer Lernumgebung sicher sind.
+Seit den Terroranschlägen des 7. Oktober 2023 gegen die Bevölkerung Israels sind auch in Deutschladnd antisemitische Vorfälle um ein Vielfaches gestiegen. Der Bundesverband der Recherche- und Informationsstellen Antisemitismus (<a href="https://www.report-antisemitism.de/">RIAS</a>) registrierte zwischen dem 7. Oktober und dem 9. November 2023 durchschnittlich 29 Vorfälle am Tag, oft mit direktem Bezug auf die Massaker der Hamas. Eine Vielzahl der Vorfälle ereignet sich an Schulen und Hochschulen. Wir stehen dafür ein, dass jüdische Schüler*innen und Studierende in ihrer Lernumgebung sicher sind.
