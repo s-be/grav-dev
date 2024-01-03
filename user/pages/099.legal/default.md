@@ -16,7 +16,7 @@ taxonomy:
    tag: unique-legal
 ---
 ### juedisch.info / jüdisch.info
-<div class="a-color-text" markdown="1">
+<div class="color-link-text" markdown="1">
 Alexander Zolotarev
 Unter Krahnenbäumen 87
 50668 Köln
@@ -32,7 +32,7 @@ Sophie Brüss
 </div>
 
 ### Förderung {#foerderung .pt-3}
-<div class="a-color-text" markdown="1">
+<div class="color-link-text" markdown="1">
 Dieses Projekt konnte dank der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State’s Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben, realisiert werden.
 
 Die inhaltliche Verantwortung liegt vollständig bei der Autorin.
@@ -40,7 +40,7 @@ Die inhaltliche Verantwortung liegt vollständig bei der Autorin.
 
 ### Urheberangaben {#urheber .pt-3}
 [//]: # (Attribution required: Please keep attributions below intact to stay compliant with the licensing agreements and to give back to the community)
-<div class="a-color-text" markdown="1">
+<div class="color-link-text" markdown="1">
 * Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, <br>insofern auf diese Quelle, etwaige Modifikationen und Lizenz verwiesen wird - [juedisch.info](https://juedisch.info) / [CC by 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/)
 * Design inspiriert durch "Solarize" von [templated.co](https://templated.co) unter der [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/)
 * Basierend auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
@@ -51,7 +51,7 @@ Lizenz - [https://fontawesome.io/license](http://fontawesome.io/license) (Font: 
 </div>
 
 ### Datenschutzhinweise {#datenschutz .pt-3}
-<div class="a-color-text" markdown="1">
+<div class="color-link-text" markdown="1">
 Diese Datenschutzerklärung gilt für jede Verarbeitung personenbezogener Daten auf juedisch.info und jüdisch.info, im Folgenden als "Internetangebot" bezeichnet.
 
 #### Keine Cookies

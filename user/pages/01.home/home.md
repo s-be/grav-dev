@@ -28,9 +28,10 @@ hook:
         # target: '#'
 
 cta:
+    class: color-link-secondary
     headline: Unterstützungs&shy;angebote
     copy:
-       Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar mollis. Vestibulum sem magna, elementum vestibulum arcu.
+       Pellentesque pede. <a href="#">Donec pulvinar</a> ullamcorper metus. In eu odio at lectus pulvinar mollis.  Vestibulum sem magna, elementum vestibulum arcu.
     button:
         text: Finden
         target: '#'
