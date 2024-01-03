@@ -11,7 +11,8 @@ sitemap:
     # url: 'user/themes/solarize/images/header_forest-1680x600.jpg'
     # headline: 'Solarize'
     # follower:
-      # (values) bold | italic | uppercase | skew | opacity-dark | opacity-light
+      # (values) bold | italic | uppercase | normal-case | small | skew
+      # ... opacity-dark | opacity-light
       # class: 'uppercase'
       # text: 'Redux'
     # blurb:
@@ -87,6 +88,7 @@ notices:
 portals: # could be used for: key staff, testimonials, service previews, ...
     heading: 'Über dieses Projekt'
     byline:
+        # (values) uppercase | normal-case | small
         class: 'normal-case small a-color-text'
         text: >
             Dieses Projekt konnte dank der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State’s Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den IVLP-Impact-Award verliehen haben, realisiert werden.
