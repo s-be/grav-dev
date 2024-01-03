@@ -8,7 +8,7 @@ sitemap:
   priority: !!float 1
 
 # banner:
-    # url: 'user/themes/solarize/images/header_kitten-1680x600.jpg'
+    # url: 'user/themes/solarize/images/header_forest-1680x600.jpg'
     # headline: 'Solarize'
     # follower:
       # (values) bold | italic | uppercase | skew | opacity-dark | opacity-light
@@ -21,13 +21,13 @@ sitemap:
 hook:
     teaser: 'Pellentesque viverra vulputate enim. Aliquam volutpat quintesse.'
     byline:
-        Diese Webseite bietet eine informative und kompakte Übersicht über die verschiedenen Hilfs- und Vernetzungsangebote für junge Jüdinnen und Juden bei antisemitischen Anfeindungen oder Vorfällen. 
+        Diese Webseite bietet eine kompakte Übersicht über die verschiedenen Hilfs- und Vernetzungsangebote für junge Jüdinnen und Juden bei antisemitischen Anfeindungen und Vorfällen. 
     # button:
         # text: 'Nulla aluctus'
         # target: '#'
 
 cta:
-    headline: Unterstützungsangebote
+    headline: Unterstützungs-angebote
     copy:
        Pellentesque pede. Donec pulvinar ullamcorper metus. In eu odio at lectus pulvinar      mollis.  Vestibulum sem magna, elementum vestibulum arcu.
     button:
@@ -85,13 +85,14 @@ notices:
           point: 'Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat liguala.'
 
 portals: # could be used for: key staff, testimonials, service previews, ...
-    heading: 'Über die Autorin'
+    heading: 'Über dieses Projekt'
     byline:
-        class: 'normal-case'
+        class: 'normal-case small a-color-text'
         text: >
-            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Seit mehr als 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander. Zwischen 2017 und 2023 wurde sie mit dem Aufbau von SABRA betraut und war dort bis November 2023 fachliche Leiterin. Sie arbeitet aktuell bei der Friedrich-Naumann-Stiftung für die Freiheit, sowie frei als politische Bildnerin in der antisemitismuskritischen Bildungsarbeit.
-            <br><br>
-            Dieses Projekt konnte dank der Unterstützung des US-Department of State’s Bureau of Educational and Cultural Affairs, des US-Konsulats in Düsseldorf und dem Meridian International Center, die Sophie Brüss den IVLP-Impact-Award verliehen haben, realisiert werden.
+            Dieses Projekt konnte dank der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State’s Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den IVLP-Impact-Award verliehen haben, realisiert werden.
+            <br><br><br>
+            <h3 class="uppercase">Über die  Autorin</h3>
+            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Zwischen 2017 und 2023 betreute sie <a href="https://www.sabra-jgd.de/">SABRA</a> als fachliche Leiterin. Sophie arbeitet aktuell bei der Friedrich-Naumann-Stiftung für die Freiheit, sowie frei als politische Bildnerin in der kritischen Bildungsarbeit. Seit mehr als 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander.
     # items:
         # - thumbnail: person.png
         #   alt: 'Molly Millions'
@@ -103,4 +104,4 @@ portals: # could be used for: key staff, testimonials, service previews, ...
 
 ### Suspendisse dictum porta
 
-Seit dem durch die Hamas verübten Terror auf die Bevölkerung im Süden Israels am 7. Oktober 2023 sind antisemitische Vorfälle um ein Vielfaches gestiegen. Der Bundesverband der Recherche- und Informationsstellen Antisemitismus (RIAS) registrierte zwischen dem 7. Oktober und dem 9. November 2023 durchschnittlich 29 Vorfälle am Tag, viele mit direktem Bezug auf die Massaker der Hamas. Eine Vielzahl der Vorfälle ereignet sich an Schulen und Hochschulen, jüdische Schüler*innen und Studierende fühlen sich in ihrer Lernumgebung nicht mehr sicher.
+Seit den Terroranschlägen des 7. Oktober 2023 gegen die Bevölkerung Israels sind auch in Deutschladnd antisemitische Vorfälle um ein Vielfaches gestiegen. Der Bundesverband der Recherche- und Informationsstellen Antisemitismus (<a href="https://www.report-antisemitism.de/">RIAS</a>) registrierte zwischen dem 7. Oktober und dem 9. November 2023 durchschnittlich 29 Vorfälle am Tag, oft mit direktem Bezug auf die Massaker der Hamas. Eine Vielzahl der Vorfälle ereignet sich an Schulen und Hochschulen, Wir stehen dafür ein, dass jüdische Schüler*innen und Studierende in ihrer Lernumgebung sicher sind.
