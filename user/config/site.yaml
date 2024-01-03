@@ -11,7 +11,7 @@ footer:
     byline:
       # (values) bold | italic | uppercase | normal-case | small
       class: 'normal-case'
-      text: Drei mal jährlich Nachrichten und Berichte aus den Netzwerken per <span class="nowrap">E-Mail</span>.
+      text: Aktuelle Nachrichten und Berichte aus den Netzwerken drei mal im Jahr per <span class="nowrap">E-Mail</span>.
     button:
       # (values) bold | italic | uppercase | normal-case | small | normal
       class: 'normal icon fa-envelope-o'
