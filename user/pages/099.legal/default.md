@@ -88,13 +88,13 @@ Weitere Informationen zu Datenspeicherung und Datensicherheit finden sich direkt
 
 #### Newsletter
 
-Unser Newsletter erscheint ca. 3 mal jährlich zu Berichten aus den Netzwerken und verwandten Projekten.
+Dieser Newsletter erscheint 3 mal jährlich mit Berichten aus den Netzwerken und verwandten Projekten.
 
 Für die Datenverarbeitung wurde ein Auftragsverarbeitungsvertrag ("AVV") mit CleverReach GmbH & Co. KG, Mühlenstr. 43, 26180 Rastede ("Servicepartner") geschlossen. Informationen zur Datensicherheit finden sich beim <a href="https://www.cleverreach.com/de-de/datensicherheit/">Servicepartner</a>.
 
 Die Anmeldung zum Newsletter erfolgt online nach dem Double-Opt-in-Verfahren. Die übermittelte E-Mail-Adresse, Anmeldequelle, sowie das Anmeldedatum werden bis auf Widerruf bei unserem Servicepartner gespeichert.
 
-Bei Abmeldung des Newsletters über den Abmeldelink am Ende jedes Newsletters werden die E-Mail-Adresse, Abmeldequelle, sowie das Abmeldedatum in eine Sperrliste aufgenommen. Alle gesperrten E-Mail-Adressen werden von zukünftigen Versendungen, Importen und Neuanmeldungen ausgeschlossen.
+Bei Abmeldung über den Abmeldelink am Ende jedes Newsletters werden die E-Mail-Adresse, Abmeldequelle, sowie das Abmeldedatum in eine Sperrliste aufgenommen. Alle gesperrten E-Mail-Adressen werden von zukünftigen Versendungen, Importen und Neuanmeldungen ausgeschlossen.
 
 Eine Öffnungs- oder Klicktracking findet nicht statt. Eine Weitergabe von Daten an Dritte findet nicht statt.
 
@@ -109,6 +109,5 @@ Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 Buchst. a, b, f DS
 #### Widerrufsbelehrung
 
 Ein Widerruf ist postalisch (siehe Impressum) oder per E-Mail an <a href="javascript:location='mailto:\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f';void 0"><script type="text/javascript">document.write('\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f')</script></a> jederzeit möglich. Daraufhin werden vorhandene Daten zeitnah und unwiederbringlich gelöscht.
-
 
 </div>
