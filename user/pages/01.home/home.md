@@ -1,6 +1,6 @@
 ---
 title: 'Aktuell'
-menu: Home
+menu: Aktuell
 body_classes: homepage
 # grav-plugin-sitemap overrides
 sitemap:
@@ -63,10 +63,10 @@ portals: # could be used for: key staff, testimonials, service previews, ...
         class: 'normal-case small color-link-secondary md-align-left'
         text: >
             <h2 class="uppercase">Über dieses Projekt</h3>
-            Dieses Projekt konnte dank der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State’s Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben, realisiert werden.
+            Dieses Projekt wurde realisiert mit der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben.
             <br><br><br>
             <h3 class="uppercase">Über die Autorin</h3>
-            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Zwischen 2017 und 2023 betreute sie <a href="https://www.sabra-jgd.de/">SABRA</a> als fachliche Leiterin. Sophie arbeitet aktuell bei der <a href="https://www.freiheit.org/de">Friedrich-Naumann-Stiftung für die Freiheit</a>, sowie frei als politische Bildnerin in der kritischen Bildungsarbeit. Seit 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander.
+            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Von 2017 und 2023 betreute sie <a href="https://www.sabra-jgd.de/">SABRA</a> als fachliche Leiterin. Sophie engagiert sich aktuell bei der <a href="https://www.freiheit.org/de">Friedrich-Naumann-Stiftung für die Freiheit</a>, sowie frei als politische Bildnerin in der kritischen Bildungsarbeit. Seit 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander.
     # items:
         # - thumbnail: person.png
         #   alt: 'Molly Millions'

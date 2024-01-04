@@ -33,15 +33,18 @@ Sophie Brüss
 
 ### Förderung {#foerderung .pt-3}
 <div class="color-link-text" markdown="1">
-Dieses Projekt konnte dank der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State’s Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben, realisiert werden.
+Dieses Projekt wurde realisiert mit der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben.
 
 Die inhaltliche Verantwortung liegt vollständig bei der Autorin.
 </div>
 
-### Urheberangaben {#urheber .pt-3}
-[//]: # (Attribution required: Please keep attributions below intact to stay compliant with the licensing agreements and to give back to the community)
+### Freie Inhalte {#frei .pt-3}
 <div class="color-link-text" markdown="1">
-* Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, <br>insofern auf diese Quelle, etwaige Modifikationen und Lizenz verwiesen wird - [juedisch.info](https://juedisch.info) / [CC by 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/)
+Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, insofern auf diese Quelle, etwaige Modifikationen und Lizenz verwiesen wird.<br> - [juedisch.info](https://juedisch.info) / [CC by 4.0 Attribution](https://creativecommons.org/licenses/by/4.0/)
+</div>
+
+### Attribution {#attribution .pt-3}
+<div class="color-link-text" markdown="1">
 * Design inspiriert durch "Solarize" von [templated.co](https://templated.co) unter der [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/)
 * Basierend auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
 * Font Awesome 4.0.3 von @davegandy - [https://fontawesome.io](http://fontawesome.io) - @fontawesome
@@ -96,7 +99,7 @@ Die Anmeldung zum Newsletter erfolgt online nach dem Double-Opt-in-Verfahren. Di
 
 Bei Abmeldung über den Abmeldelink am Ende jedes Newsletters werden die E-Mail-Adresse, Abmeldequelle, sowie das Abmeldedatum in eine Sperrliste aufgenommen. Alle gesperrten E-Mail-Adressen werden von zukünftigen Versendungen, Importen und Neuanmeldungen ausgeschlossen.
 
-Eine Öffnungs- oder Klicktracking findet nicht statt. Eine Weitergabe von Daten an Dritte findet nicht statt.
+Ein Öffnungs- oder Klicktracking findet nicht statt. Eine Weitergabe von Daten an Dritte findet nicht statt.
 
 #### Kontakt
 
@@ -109,5 +112,4 @@ Die Datenverarbeitung erfolgt auf Grundlage von Art. 6 Abs. 1 Buchst. a, b, f DS
 #### Widerrufsbelehrung
 
 Ein Widerruf ist postalisch (siehe Impressum) oder per E-Mail an <a href="javascript:location='mailto:\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f';void 0"><script type="text/javascript">document.write('\u006b\u006f\u006e\u0074\u0061\u006b\u0074\u0040\u006a\u0075\u0065\u0064\u0069\u0073\u0063\u0068\u002e\u0069\u006e\u0066\u006f')</script></a> jederzeit möglich. Daraufhin werden vorhandene Daten zeitnah und unwiederbringlich gelöscht.
-
 </div>

@@ -33,8 +33,8 @@ footer:
         # url: '#'
   legal:
     credits:
-      title: 'Förderung'
-      id: '#foerderung'
+      title: 'Freie Inhalte'
+      id: '#frei'
     privacy:
       title: 'Datenschutz'
       id: '#datenschutz'
