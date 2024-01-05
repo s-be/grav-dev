@@ -20,53 +20,56 @@ sitemap:
       # text: 'a performant theme for Grav CMS'
 
 hook:
-    teaser: 'Pellentesque viverra vulputate enim. Aliquam volutpat quintesse.'
+    teaser: 'Polluntesce'
     byline:
-        Diese Webseite bietet eine kompakte Übersicht über die verschiedenen Hilfs- und Vernetzungsangebote für junge Jüdinnen und Juden bei antisemitischen Anfeindungen und Vorfällen. 
+        Diese Webseite bietet eine kompakte Übersicht über die verschiedenen Hilfs- und Vernetzungsangebote für junge Jüdinnen und Juden bei antisemitischen Anfeindungen und Vorfällen.
     # button:
         # text: 'Nulla aluctus'
         # target: '#'
 
 cta:
     class: color-link-secondary
-    headline: Unterstützungs&shy;angebote
+    headline: Was tun bei antisemitischen Vorfällen?
     copy:
-       Pellentesque pede. <a href="#">Donec pulvinar</a> ullamcorper metus. In eu odio at lectus pulvinar mollis.  Vestibulum sem magna, elementum vestibulum arcu.
+       Wo bekomme ich Unterstützung?
     button:
         text: Finden
-        target: '#'
+        target: 'handeln'
 
 # Quilt/Notices: these will be rendered in a 3-column grid
 notices:
-    heading: 'Cras vitae metus'
+    heading: 'Informieren'
     byline: 'pulvinar mollis. Vestibulum sem magna, elementum vestibulum arcu.'
     items:
         # first row
         - icon: fa-info color-primary
           target: '#'
-          heading: 'Informieren'
-          point: 'In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula pellentesque.'
+          heading: 'IHRA-Definition'
+          point: 'In posuere eleifend odio. Quisque semper augue mattis wisi. Maecenas ligula pellentesque... <a href="informieren#definition">mehr</a>'
         - icon: fa-cogs color-primary
           # target: '#'
-          heading: 'Vernetzen'
-          point: 'Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor.'
+          heading: 'Funktionsweisen von Antisemitismus'
+          point: 'Maecenas pede nisl, elementum eu, ornare ac, malesuada at, erat. Proin gravida orci porttitor... <a href="informieren#funktionsweisen">mehr</a>'
         - icon: fa-shield color-primary
           # target: '#'
-          heading: 'Handeln'
-          point: 'Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat liguala.'
+          heading: 'Israelbezogener Antisemitismus'
+          point: 'Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat... <a href="informieren#definition">mehr</a>'
+        - icon: fa-shield color-primary
+          # target: '#'
+          heading: 'Verschwörungserzählungen'
+          point: 'Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat... <a href="informieren#verschwoerungen">mehr</a>'
 
 
 portals: # could be used for: key staff, testimonials, service previews, ...
-    # heading: 'Über dieses Projekt'
+    heading: 'Über dieses Projekt'
     byline:
         # (values) uppercase | normal-case | small
-        class: 'normal-case small color-link-secondary md-align-left'
+        class: 'normal-case small color-link-secondary align-left-md'
         text: >
-            <h2 class="uppercase">Über dieses Projekt</h3>
-            Dieses Projekt wurde realisiert mit der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben.
+            Dieses Projekt wurde realisiert mit der Unterstützung des US-Department of State <a href="https://eca.state.gov/about-bureau">Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>.
             <br><br><br>
             <h3 class="uppercase">Über die Autorin</h3>
-            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Von 2017 und 2023 betreute sie <a href="https://www.sabra-jgd.de/">SABRA</a> als fachliche Leiterin. Sophie engagiert sich aktuell bei der <a href="https://www.freiheit.org/de">Friedrich-Naumann-Stiftung für die Freiheit</a>, sowie frei als politische Bildnerin in der kritischen Bildungsarbeit. Seit 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander.
+            <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Von 2017 und 2023 betreute sie <a href="https://www.sabra-jgd.de/">SABRA</a> als fachliche Leiterin. Sophie engagiert sich aktuell bei der <a href="https://www.freiheit.org/de">Friedrich-Naumann-Stiftung für die Freiheit</a>, sowie frei als politische Bildnerin in der kritischen Bildungsarbeit. 2023 hat Sie den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen bekommen. Seit 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander.
     # items:
         # - thumbnail: person.png
         #   alt: 'Molly Millions'

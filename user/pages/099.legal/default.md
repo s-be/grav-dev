@@ -33,7 +33,7 @@ Sophie Brüss
 
 ### Förderung {#foerderung .pt-3}
 <div class="color-link-text" markdown="1">
-Dieses Projekt wurde realisiert mit der Unterstützung des <a href="https://eca.state.gov/about-bureau">US-Department of State Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats in Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>, die Sophie Brüss den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen haben.
+Dieses Projekt wurde realisiert mit der Unterstützung des US-Department of <a href="https://eca.state.gov/about-bureau">State Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>.
 
 Die inhaltliche Verantwortung liegt vollständig bei der Autorin.
 </div>
