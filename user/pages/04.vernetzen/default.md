@@ -10,23 +10,23 @@ menu: vernetzen
 * Antisemitische Vorfälle melden
 * Verweisberatung an geeignete Beratungsstellen
 
-#### OFEK e.V. {.pt-1}
+#### OFEK e.V. {.pt-2}
 <i class="fa fa-globe mr-1" aria-label="Website"></i>[ofek-beratung.de](https://ofek-beratung.de/)
 * Bundesweite Beratungsstelle bei antisemitischen Vorfällen
 * Gruppenberatungen und Empowerment
 * Psychosoziale Begleitung
 
-#### Beauftragter der Bundesregierung für Jüdisches Leben und den Kampf gegen Antisemitismus {.pt-1}
+#### Beauftragter der Bundesregierung für Jüdisches Leben und den Kampf gegen Antisemitismus {.pt-2}
 <i class="fa fa-globe mr-1" aria-label="Website"></i>[antisemitismusbeauftragter.de](https://www.antisemitismusbeauftragter.de/Webs/BAS/DE/service/weiterfuehrende-links/weiterfuehrende-links-node.html)
 * Große Anzahl an weiterführenden Links zu Anlaufstellen
 * Hintergrundinformationen und Initiativen
 
-#### Opfer- und Betroffenenberatungsstellen {.pt-1}
+#### Opfer- und Betroffenenberatungsstellen {.pt-2}
 <i class="fa fa-globe mr-1" aria-label="Website"></i>[demokratie-leben.de](https://www.demokratie-leben.de/projekte-expertise/beratungsangebote/alle-angebote-der-opferberatung)
 * Unterstützung für Betroffene rechtsextremer, rassistischer und menschenfeindlicher Taten
 * Juristische Beratung
 
-#### Zentralrat der Juden in Deutschland {.pt-1}
+#### Zentralrat der Juden in Deutschland {.pt-2}
 <i class="fa fa-globe mr-1" aria-label="Website"></i>[zentralratderjuden.de](https://www.zentralratderjuden.de/)
 - Dialogprojekt „[Meet a Jew](https://www.meetajew.de/)“
 - [Jewrovision](https://www.jewrovision.de/) inkl. [Mini-Machane](https://www.jewrovision.de/mini-machane/)
