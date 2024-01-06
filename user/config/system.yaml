@@ -16,9 +16,9 @@ http_x_forwarded:
   ip: true
 languages:
   supported:
-    - en
     - de
-  default_lang: 'en'
+    - en
+  default_lang: 'de'
   include_default_lang: false
   include_default_lang_file_extension: false
   translations: true

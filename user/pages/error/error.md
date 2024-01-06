@@ -1,5 +1,5 @@
 ---
-title: Page not found
+title: Seite nicht gefunden
 robots: noindex,nofollow
 template: error
 routable: false
