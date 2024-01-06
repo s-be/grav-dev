@@ -1,7 +1,7 @@
 ---
 title: 'Unterstützung und Vernetzung'
 title: 'Vernetzen'
-menu: vernetzen
+menu: Vernetzen
 # subtitle: 'Integer sit amet pede vel arcu aliquet pretium'
 ---
 

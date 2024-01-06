@@ -56,7 +56,7 @@ notices:
           point: 'Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat... <a href="informieren#definition">mehr</a>'
         - icon: fa-shield color-primary
           # target: '#'
-          heading: 'Verschwörungserzählungen'
+          heading: 'Verschwörungs&shy;erzählungen'
           point: 'Maecenas ligula. Pellentesque viverra vulputate enim. Aliquam erat volutpat... <a href="informieren#verschwoerungen">mehr</a>'
 
 

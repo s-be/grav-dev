@@ -6,7 +6,7 @@ title: 'Handeln'
 ## Inhalt
 1. [Während des Vorfalls/unmittelbar danach](#unmittelbar)
 2. [Nach dem Vorfall](#danach)
-3. [Langfristig: Vernetzt und empowert euch!](#langfristig)
+3. [Langfristig: vernetzt und empowert euch!](#langfristig)
 
 #### Was tun bei antisemitischen Vorfällen oder Aggressionen? {#intro .pt-3}
 
@@ -31,7 +31,7 @@ Ob in der Schule, in der Unibibliothek oder in der Straßenbahn, antisemitische 
 #### Priorität: Unterstützung suchen, Vorfall melden. 
 
 * Erstellt ein Gedächtnisprotokoll, sobald ihr in der Lage dazu seid. Dabei kann es sich auch um eine Sprachnachricht an euch selbst oder an einer Person eures Vertrauens sein, oder eine kurze Notiz mit den wesentlichen Aspekten handeln. Dieses kann später schriftlich erfolgen, wenn ihr euch nochmal mit dem Vorfall auseinandersetzen könnt. 
-* Sucht euch Unterstützung. Es gibt eine Vielzahl an Unterstüzungsangeboten und Beratungsstellen. [OFEK e.V.}(https://ofek-beratung.de/) bietet beispielsweise Beratungen bei antisemitischen Vorfällen an und kann niedrigschwellig per Telefon, E-Mail oder Chat erreicht werden.
+* Sucht euch Unterstützung. Es gibt eine Vielzahl an Unterstüzungsangeboten und Beratungsstellen. [OFEK e.V.](https://ofek-beratung.de/) bietet beispielsweise Beratungen bei antisemitischen Vorfällen an und kann niedrigschwellig per Telefon, E-Mail oder Chat erreicht werden.
 * Werdet euch klar werden, was ihr erreichen wollt, also eine Zielsetzung. Dabei kann es sich sowohl um kurzfristige Ziele handeln, z.B. Bestrafung des Aggressors, Klärung des Sachverhalts oder Anzeigenstellung bei der Polizei, aber auch langfristige Ziele wie ein Schulkonzept gegen Antisemitismus an der Schule oder Hochschule o.ä. Dabei können Gespräche mit einer Vertrauensperson, anderen Betroffenen oder einer beratenden Person helfen. 
 * Meldet antisemitische Vorfälle bei [RIAS](https://www.report-antisemitism.de/)! RIAS kann euch auch beim Stellen einer Anzeige oder bei der Suche nach einer geeigneten Beratungsstelle. 
 * Meldet auch den Vorfall ggf. auch bei der Stadt, der zuständigen Behörde oder der Organisation, in der dieser passiert ist. Dabei können auch ebenfalls Beratungsstellen oder RIAS helfen. 
@@ -39,7 +39,7 @@ Ob in der Schule, in der Unibibliothek oder in der Straßenbahn, antisemitische 
 * Universitäten und Hochschulen haben oft Diversity- oder Antidiskriminierungsanlaufstellen, da die ihr euch wenden können. Ihr könnt euch auch an die jüdische Hochschulgruppe eurer Stadt, Jüdischen Studierendenverbänden oder der [Jüdischen Studierendenunion](https://www.jsud.de/lokal) Deutschland wenden.
 
 
-### 3. Langfristig: Vernetzt und empowert euch! {#langfristig .pt-3}
+### 3. Langfristig: vernetzt und empowert euch! {#langfristig .pt-3}
 
 #### Priorität: Vernetzung, Unterstützung
 
