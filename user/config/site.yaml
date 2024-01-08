@@ -1,4 +1,6 @@
 title: 'juedisch.info'
+# html lang only
+default_lang: 'de'
 author:
   name: sb
   email: 'dev@juedisch.info'

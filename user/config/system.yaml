@@ -18,7 +18,7 @@ languages:
   supported:
     - de
     - en
-  default_lang: 'de'
+  default_lang: de
   include_default_lang: false
   include_default_lang_file_extension: false
   translations: true
@@ -220,7 +220,7 @@ http:
 accounts:
   type: regular
   storage: file
-  avatar: gravatar
+  avatar: multiavatar
 flex:
   cache:
     index:
