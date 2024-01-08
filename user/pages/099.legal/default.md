@@ -1,6 +1,7 @@
 ---
 title: 'Impressum'
 # subtitle: 'Integer sit amet pede vel arcu aliquet pretium'
+menu: 'Kontakt'
 slug: 'impressum'
 visible: false
 robots: noindex,nofollow
@@ -9,7 +10,7 @@ sitemap:
    changefreq: monthly
    priority: !!float 0.4
    # disallow indexing via sitemap.xml plugin
-   ignore: true
+   ignore: false
 # do not change taxonomy definition
 # unique category is an identifier in templates/partials/footer.html.twig
 taxonomy:
