@@ -8,7 +8,7 @@
 		<section class="container">
 			<header class="major pb-2">
 				<h2>{{ notices.heading|raw }}</h2>
-				<span class="byline">{{ notices.byline }}</span>
+				<span class="byline">{{ notices.byline|raw }}</span>
 			</header>
 				<div class="clearfix">
 					<ul class="special-icons grid-default">
@@ -17,7 +17,7 @@
 							<span class="fa {{ item.icon }}"></span>
 							<h3>{% spaceless %}
 								{% if item.target %}
-									<a href="{{ item.target }}">{{ item.heading }}</a>
+									<a href="{{ item.target }}">{{ item.heading|raw }}</a>
 								{% else %}
 									{{ item.heading|raw }}
 								{% endif %}
