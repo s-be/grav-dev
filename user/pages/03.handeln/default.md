@@ -50,4 +50,4 @@ Ob in der Schule, in der Unibibliothek oder in der Straßenbahn, antisemitische 
 * Schließlich bietet die [Jewish Agency for Israel](https://www.jewishagency.org/de/) Beratung an, solltet ihr erwägen, Alijah zu machen und bietet ebenfalls Vernetzungsangebote an.
 
 
-Weitere Angebote findet ihr im Abschnitt [Unterstützung und Vernetzung](vernetzen). 
+Weitere Angebote findet ihr im Abschnitt [Unterstützung und Vernetzung](../vernetzen).
