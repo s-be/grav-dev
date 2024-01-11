@@ -3,7 +3,7 @@ title: 'Unterstützung und Vernetzung'
 menu: Vernetzen
 # subtitle: 'Integer sit amet pede vel arcu aliquet pretium'
 ---
-### Beratungsstellen {#beratung}
+### Anlaufsstellen {#anlaufstellen}
 
 #### Bundesverband RIAS e.V. 
 <i class="fa fa-globe mr-1" title="Webseite"></i>[report-antisemitism.de](https://www.report-antisemitism.de/)
@@ -31,3 +31,12 @@ menu: Vernetzen
 - Dialogprojekt „[Meet a Jew](https://www.meetajew.de/)“
 - [Jewrovision](https://www.jewrovision.de/) und [Mini-Machane](https://www.jewrovision.de/mini-machane/)
 
+### Kooperationspartner {#kooperation .pt-3}
+
+#### Demokratischer Salon
+<i class="fa fa-globe mr-1" title="Webseite"></i>[demokratischer-salon.de](https://demokratischer-salon.de/)
+* Argumente zur historisch-politischen Bildung
+
+#### anders denken {.pt-2}
+<i class="fa fa-globe mr-1" title="Webseite"></i>[anders-denken.info](https://www.anders-denken.info/)
+* Die Onlineplattform für Antisemitismuskritik und Bildungsarbeit

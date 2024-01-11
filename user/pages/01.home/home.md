@@ -20,12 +20,12 @@ sitemap:
       # text: 'a performant theme for Grav CMS'
 
 hook:
-    teaser: 'Gegen jeden Antisemitismus'
+    teaser: 'Über dieses Projekt'
     byline:
         Diese Webseite bietet eine informative und kompakte Übersicht über die verschiedenen Hilfs- und Vernetzungsangebote für junge Jüdinnen und Juden bei antisemitischen Anfeindungen und Vorfällen.
     # button:
         # text: 'Nulla aluctus'
-        # target: '#'
+        # url: '#'
 
 cta:
     class: color-link-secondary
@@ -34,33 +34,34 @@ cta:
        Verhaltens&shy;tipps und Beratungs&shy;stellen
     button:
         text: Finden
-        target: 'handeln'
+        url: './handeln'
 
-# Quilt/Notices: these will be rendered in a 3-column grid
+# Notices: these will be rendered in a 3-column grid, configurable by SCSS
 notices:
     heading: 'Informieren'
     byline: 'Leitfaden “Was ist Antisemitismus“'
     items:
-        # first row
-        - icon: fa-info color-primary
-          # target: '#'
-          heading: 'IHRA-Definition'
+        - heading: 'IHRA-Definition'
           point: 'Arbeitsdefinition und Beispiele... <a href="./informieren#definition">mehr</a>'
-        - icon: fa-info color-primary
-          # target: '#'
-          heading: 'Funktionsweisen von Antisemitismus'
+          url: './informieren#definition'
+          icon: fa-info color-primary
+        - heading: 'Funktionsweisen von Antisemitismus'
           point: 'Zur Weltanschauung... <a href="./informieren#funktionsweisen">mehr</a>'
-        - icon: fa-info color-primary
-          # target: '#'
-          heading: 'Israelbezogener Antisemitismus'
-          point: 'Chiffren & Codes... <a href="./informieren#definition">mehr</a>'
-        - icon: fa-info color-primary
-          # target: '#'
-          heading: 'Verschwörungs&shy;erzählungen'
+          url: './informieren#funktionsweisen'
+          icon: fa-cogs color-primary
+
+        - heading: 'Israelbezogener Antisemitismus'
+          point: 'Chiffren & Codes... <a href="./informieren#israelbezogen">mehr</a>'
+          url: './informieren#israelbezogen'
+          icon: fa-key color-primary
+        - heading: 'Verschwörungs&shy;erzählungen'
           point: 'Vom historischen Narrativ... <a href="./informieren#verschwoerungen">mehr</a>'
+          url: './informieren#verschwoerungen'
+          icon: fa-eye color-primary
+          
 
 portals: # could be used for: key staff, testimonials, service previews, ...
-    heading: 'Über dieses Projekt'
+    heading: 'Förderung'
     byline:
         # (values) uppercase | normal-case | small
         class: 'normal-case small color-link-secondary align-left-md'
@@ -72,7 +73,7 @@ portals: # could be used for: key staff, testimonials, service previews, ...
     # items:
         # - thumbnail: person.png
         #   alt: 'Molly Millions'
-        #  target: '#'
+        #  url: '#'
         #  heading: 'Molly Millions'
         #  teaser: 'In posuere eleifend odio quisque semper augue wisi ligula.'
 

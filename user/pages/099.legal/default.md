@@ -3,13 +3,13 @@ title: 'Impressum'
 # subtitle: 'Integer sit amet pede vel arcu aliquet pretium'
 menu: 'Kontakt'
 slug: 'impressum'
-visible: false
+visible: true
 robots: noindex,nofollow
 # grav-plugin-sitemap overrides
 sitemap:
    changefreq: monthly
    priority: !!float 0.4
-   # disallow indexing via sitemap.xml plugin
+   # allow indexing via sitemap.xml plugin
    ignore: false
 # do not change taxonomy definition
 # unique category is an identifier in templates/partials/footer.html.twig
