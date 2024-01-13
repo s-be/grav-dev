@@ -61,7 +61,9 @@ notices:
           
 
 portals: # could be used for: key staff, testimonials, service previews, ...
-    heading: 'Förderung'
+    heading:
+      class: 'align-left-md'
+      text:  'Förderung'
     byline:
         # (values) uppercase | normal-case | small
         class: 'normal-case small color-link-secondary align-left-md'
