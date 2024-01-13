@@ -34,9 +34,14 @@ Sophie Brüss
 
 ### Förderung {#foerderung .pt-3}
 <div class="color-link-text" markdown="1">
-Dieses Projekt wurde realisiert mit der Unterstützung des US-Department of <a href="https://eca.state.gov/about-bureau">State Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>.
+Dieses Projekt wurde mit der Unterstützung des US-Department of <a href="https://eca.state.gov/about-bureau">State Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a> realisiert.
 
-Die inhaltliche Verantwortung liegt vollständig bei der Autorin.
+Die inhaltliche Verantwortung liegt vollständig bei der Projektleitung.
+</div>
+
+### Unterstützung {#unterstuetzung .pt-3}
+<div class="color-link-text" markdown="1">
+Für die fachliche und persönliche Unterstützung geht besonderer Dank an Marina Friemelt, Luisa Gärtner, Norbert Reichel und Lennard Schmidt.
 </div>
 
 ### Freie Inhalte {#frei .pt-3}
@@ -47,12 +52,12 @@ Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, insofern
 ### Attribution {#attribution .pt-3}
 <div class="color-link-text" markdown="1">
 [//]: # (* Entwickelt von [kittyfishfrommars](https://github.com/Kittyfishfrommars) unter der [MIT Lizenz](https://opensource.org/license/mit/), Modifikationen siehe [CHANGELOG](https://github.com/Kittyfishfrommars/grav-skeleton-solstice/blob/main/user/themes/solstice/CHANGELOG.md))
-* Basierend auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
-* Design inspiriert durch "Solarize" von [templated.co](https://templated.co) unter der [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/)
+* Die Entwicklung basiert auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
+* Design inspiriert durch „Solarize“ von [templated.co](https://templated.co) unter der [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/)
 * Font Awesome 4.0.3 von @davegandy - [https://fontawesome.io](http://fontawesome.io) - @fontawesome
 Lizenz - [https://fontawesome.io/license](http://fontawesome.io/license) (Font: SIL OFL 1.1, CSS: MIT License)
 * OpenSans[wdth,wght].woff2: Copyright 2020 The Open Sans Project Authors [https://github.com/googlefonts/opensans](https://github.com/googlefonts/opensans)
-* Entwickelt mit [Grav](https://getgrav.org/) unter der [MIT License](https://github.com/getgrav/grav/blob/master/LICENSE.txt)
+* CMS [Grav](https://getgrav.org/) veröffentlicht unter der [MIT License](https://github.com/getgrav/grav/blob/master/LICENSE.txt)
 </div>
 
 ### Datenschutzhinweise {#datenschutz .pt-3}
@@ -97,7 +102,7 @@ Dieser Newsletter erscheint 3 mal jährlich mit Berichten aus den Netzwerken und
 
 Für die Datenverarbeitung wurde ein Auftragsverarbeitungsvertrag ("AVV") mit CleverReach GmbH & Co. KG, Mühlenstr. 43, 26180 Rastede ("Servicepartner") geschlossen. Informationen zur Datensicherheit finden sich beim <a href="https://www.cleverreach.com/de-de/datensicherheit/">Servicepartner</a>.
 
-Die Anmeldung zum Newsletter erfolgt online nach dem Double-Opt-in-Verfahren. Die übermittelte E-Mail-Adresse, Anmeldequelle, sowie das Anmeldedatum werden bis auf Widerruf bei unserem Servicepartner gespeichert.
+Die Anmeldung zum Newsletter erfolgt online nach dem Double-Opt-in-Verfahren. Die übermittelte E-Mail-Adresse, Anmeldequelle, sowie das Anmeldedatum werden bis auf Widerruf beim Servicepartner gespeichert.
 
 Bei Abmeldung über den Abmeldelink am Ende jedes Newsletters werden die E-Mail-Adresse, Abmeldequelle, sowie das Abmeldedatum in eine Sperrliste aufgenommen. Alle gesperrten E-Mail-Adressen werden von zukünftigen Versendungen, Importen und Neuanmeldungen ausgeschlossen.
 

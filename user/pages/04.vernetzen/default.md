@@ -33,10 +33,10 @@ menu: Vernetzen
 
 ### Kooperationspartner {#kooperation .pt-3}
 
+#### Initiative Interdisziplinäre Antisemitismusforschung (IIA) {.pt-2}
+<i class="fa fa-globe mr-1" title="Webseite"></i>[uni-trier.de/.../antisemitismusforschung](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-iii/faecher/geschichte/studium-und-lehre/initiative-interdisziplinaere-antisemitismusforschung/start)
+* Zusammenschluss junger Wissenschaftler:innen an der Universität Trier
+
 #### Demokratischer Salon
 <i class="fa fa-globe mr-1" title="Webseite"></i>[demokratischer-salon.de](https://demokratischer-salon.de/)
 * Argumente zur historisch-politischen Bildung
-
-#### anders denken {.pt-2}
-<i class="fa fa-globe mr-1" title="Webseite"></i>[anders-denken.info](https://www.anders-denken.info/)
-* Die Onlineplattform für Antisemitismuskritik und Bildungsarbeit

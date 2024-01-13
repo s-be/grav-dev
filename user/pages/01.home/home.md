@@ -22,7 +22,7 @@ sitemap:
 hook:
     teaser: 'Über dieses Projekt'
     byline:
-        Diese Webseite bietet eine informative und kompakte Übersicht über die verschiedenen Hilfs- und Vernetzungsangebote für junge Jüdinnen und Juden bei antisemitischen Anfeindungen und Vorfällen.
+        Diese Webseite bietet eine informative und kompakte Übersicht über die verschiedenen Hilfs- und Vernetzungsangebote für junge Jüdinnen*Juden bei antisemitischen Anfeindungen und Vorfällen.
     # button:
         # text: 'Nulla aluctus'
         # url: '#'
@@ -31,7 +31,7 @@ cta:
     class: color-link-secondary
     headline: Bei antisemitischen Vorfällen
     copy:
-       Verhaltens&shy;tipps und Beratungs&shy;stellen
+       Tipps zum Umgang und Anlaufstellen
     button:
         text: Finden
         url: './handeln'
@@ -39,23 +39,23 @@ cta:
 # Notices: these will be rendered in a 3-column grid, configurable by SCSS
 notices:
     heading: 'Informieren'
-    byline: 'Leitfaden “Was ist Antisemitismus“'
+    byline: 'Leitfaden „Was ist Antisemitismus“'
     items:
         - heading: 'IHRA-Definition'
-          point: 'Arbeitsdefinition und Beispiele... <a href="./informieren#definition">mehr</a>'
+          point: 'Die Arbeitsdefinition Antisemitismus der IHRA dient als Orientierung und nützliches Instrument, um antisemitische Aussagen oder Anfeindungen einzuordnen... <a href="./informieren#definition">mehr</a>'
           url: './informieren#definition'
           icon: fa-info color-primary
         - heading: 'Funktionsweisen von Antisemitismus'
-          point: 'Zur Weltanschauung... <a href="./informieren#funktionsweisen">mehr</a>'
+          point: 'Der Antisemitismus ermöglicht dem Menschen in seiner Funktion als Ideologie, einfache Erklärungsmuster für Dinge zu finden, die er nicht erklären kann oder will.... <a href="./informieren#funktionsweisen">mehr</a>'
           url: './informieren#funktionsweisen'
           icon: fa-cogs color-primary
 
         - heading: 'Israelbezogener Antisemitismus'
-          point: 'Chiffren & Codes... <a href="./informieren#israelbezogen">mehr</a>'
+          point: 'Beim Israelbezogenen Antisemitismus nimmt der Staat Israel im Denken der Antisemit*innen als „Kollektivjude” dieselbe Funktion wie „der Jude“ im Antisemitismus ein.... <a href="./informieren#israelbezogen">mehr</a>'
           url: './informieren#israelbezogen'
           icon: fa-key color-primary
         - heading: 'Verschwörungs&shy;erzählungen'
-          point: 'Vom historischen Narrativ... <a href="./informieren#verschwoerungen">mehr</a>'
+          point: 'Antisemitische Verschwörungsideologien behaupten, dass „die Juden“ eine geheime, machthungrige Gruppe seien, die die Welt kontrollieren und für diverse globale Probleme verantwortlich sein sollen.... <a href="./informieren#verschwoerungen">mehr</a>'
           url: './informieren#verschwoerungen'
           icon: fa-eye color-primary
           
@@ -66,9 +66,9 @@ portals: # could be used for: key staff, testimonials, service previews, ...
         # (values) uppercase | normal-case | small
         class: 'normal-case small color-link-secondary align-left-md'
         text: >
-            Dieses Projekt wurde realisiert mit der Unterstützung des US-Department of State <a href="https://eca.state.gov/about-bureau">Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a>.
+            Dieses Projekt wurde mit der Unterstützung des US-Department of State <a href="https://eca.state.gov/about-bureau">Bureau of Educational and Cultural Affairs</a>, des <a href="https://de.usembassy.gov/de/location/dusseldorf-de/">US-Konsulats Düsseldorf</a> und dem <a href="https://www.meridian.org/">Meridian International Center</a> umgesetzt.
             <br><br><br>
-            <h3 class="uppercase">Über die Autorin</h3>
+            <h3 class="uppercase">Über die Initiatorin</h3>
             <b>Sophie Brüss</b> studierte Romanische Philologie und Volkswirtschaftslehre an der Uni Bonn und absolvierte eine Zusatzausbildung zur Theaterpädagogin in Köln. Von 2017 und 2023 betreute sie <a href="https://www.sabra-jgd.de/">SABRA</a> als fachliche Leiterin. Sophie engagiert sich aktuell bei der <a href="https://www.freiheit.org/de">Friedrich-Naumann-Stiftung für die Freiheit</a>, sowie frei als politische Bildnerin in der kritischen Bildungsarbeit. 2023 hat sie den <a href="https://www.meridian.org/profile/sophie-bruss/">IVLP-Impact-Award</a> verliehen bekommen. Seit 15 Jahren setzt sie sich beruflich und künstlerisch mit Antisemitismus auseinander.
     # items:
         # - thumbnail: person.png
