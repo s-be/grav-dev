@@ -51,7 +51,7 @@ Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, insofern
 
 ### Attribution {#attribution .pt-3}
 <div class="color-link-text" markdown="1">
-[//]: # (* Entwickelt von [kittyfishfrommars](https://github.com/Kittyfishfrommars) unter der [MIT Lizenz](https://opensource.org/license/mit/), Modifikationen siehe [CHANGELOG](https://github.com/Kittyfishfrommars/grav-skeleton-solstice/blob/main/user/themes/solstice/CHANGELOG.md))
+[//]: # (* Entwickelt von [kittyfishfrommars](https://github.com/Kittyfishfrommars) unter der [MIT Lizenz](https://opensource.org/license/mit/), Modifikationen siehe [CHANGELOG](https://github.com/Kittyfishfrommars/grav-skeleton-oxygen/blob/main/user/themes/oxygen/CHANGELOG.md))
 * Die Entwicklung basiert auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
 * Design inspiriert durch „Solarize“ von [templated.co](https://templated.co) unter der [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/)
 * Font Awesome 4.0.3 von @davegandy - [https://fontawesome.io](http://fontawesome.io) - @fontawesome
