@@ -7,16 +7,19 @@ sitemap:
   changefreq: weekly
   priority: !!float 1
 
-# banner:
-    # url: 'user/themes/solarize/images/header_forest-1680x600.jpg'
-    # headline: 'Solarize'
+banner:
+    # leave url empty to disable banner
+    url: 'header_home-1500x960_q82.webp'
+    # headline: 'solstice'
+    position: '30% 42.5%'
     # follower:
       # (values) bold | italic | uppercase | normal-case | small | skew
       # ... opacity-dark | opacity-light
       # class: 'uppercase'
       # text: 'Redux'
-    # blurb:
-      # class: 'uppercase'
+    blurb:
+      class: 'uppercase'
+      # comment-out line below to disable blurb
       # text: 'a performant theme for Grav CMS'
 
 hook:
@@ -28,15 +31,15 @@ hook:
         # url: '#'
 
 cta:
-    class: color-link-secondary
     headline: Bei antisemitischen Vorfällen
+    class: color-link-secondary
     copy:
        Tipps zum Umgang und Anlaufstellen
     button:
         text: Finden
         url: './handeln'
 
-# Notices: these will be rendered in a 3-column grid, configurable by SCSS
+# rendered in a 3-column grid, confiurable by SCSS
 notices:
     heading: 'Informieren'
     byline: 'Leitfaden „Was ist Antisemitismus“'
@@ -60,7 +63,7 @@ notices:
           icon: fa-eye color-primary
           
 
-portals: # could be used for: key staff, testimonials, service previews, ...
+portals:
     heading:
       class: 'align-left-md'
       text:  'Förderung'

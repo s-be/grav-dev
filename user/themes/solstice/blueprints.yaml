@@ -1,14 +1,32 @@
 name: Solstice
 version: 1.0.0
 description: A performant theme for Grav
-icon: rebel
+icon: sun-o
 author:
-  name: kitty fish from mars?!
+  name: Kittyfish from Mars
   email: kittfishfrommars@gmail.com
-homepage: https://github.com/kittyfishfrommars/grav-skeleton-solstice
-demo: https://github.com/kittyfishfrommars
+  url: https://github.com/kittyfishfrommars
 keywords: grav, theme, accessiblity, performance, maintenance, legal
-bugs: https://github.com/kittyfishfrommars
-readme: https://github.com/kittyfishfrommars
-docs: https://github.com/kittyfishfrommars
+homepage: https://github.com/kittyfishfrommars/grav-skeleton-solstice
+demo: https://kittyfishfrommars.github.io/grav/grav-skeleton-solstice
+readme: https://github.com/kittyfishfrommars/blob/main/user/themes/solstice/README.md
+bugs: https://github.com/kittyfishfrommars/issues
+changelog: https://github.com/kittyfishfrommars/blob/main/user/themes/solstice/CHANGELOG.md
 license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.7.0' }
+
+form:
+  validation: strict
+  fields:
+    dropdown:
+        type: toggle
+        label: Dropdown in Navigation
+        highlight: 1
+        default: 1
+        options:
+            1: PLUGIN_ADMIN.ENABLED
+            0: PLUGIN_ADMIN.DISABLED
+        validate:
+            type: bool

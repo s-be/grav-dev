@@ -13,6 +13,9 @@ assets:
 # Enable force_ssl if env supports it
 force_ssl: false       # Use HTTPS only (redirect from HTTP -> HTTPS)
 
+debugger:
+  enabled: false      # disable development helper, if set
+
 session:
   initialize: false   # Disables "cookies": GDPR-compliance for visitors
   # Enable secure if env supports it

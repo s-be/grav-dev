@@ -1,9 +1,9 @@
 # v1.0.0 (s-be)
-##  16-01-2024
+##  14-02-2024
 
 [](#release)
 
- Located at: (github.com/kittyfishfrommars)[https://github.com/kittyfishfrommars]
+ Located at: [github.com/kittyfishfrommars](https://github.com/kittyfishfrommars)
 
  This release is a major rework of [hughbris grav port](https://github.com/hughbris/grav-theme-solstice/tree/develop) to provide a basis for further development.
 
@@ -11,7 +11,7 @@
 * Typography: increase font-size, unify line-height to improve readability
 * Footer icons: add aria-label for screenreaders to footer icons
 * Color scheme: change background from white to light grey to reduce eye-strain
-* Contrast: darken primary color to pass accessibility audit
+* Contrast: new color scheme to pass accessibility audit
 
 ### Performance
 * Remove IE8 support
@@ -21,25 +21,25 @@
 * Introduce fingerprints to help with [Cache-Control](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Cache-Control) busting
 
 ### Maintenance
-* Define header banner on a per-page basis
-* Define footer links on a per-site basis
+* Set header banner on a per-page basis in admin panel
+* Define footer content on a per-site basis in admin panel
+* Configure sidebars on a per-page basis in admin panel
+* Add modular links to be configured in admin panel
 * Add custom error page via [grav-plugin-error](https://github.com/getgrav/grav-plugin-error) dependency
 * Add XML sitemap and custom HTML sitemap via [grav-plugin-sitemap](https://github.com/getgrav/grav-plugin-sitemap)
-* Auto-link to sitemap from error page
+* Dynamically refer to sitemap from error page
 * Add languages.yaml in theme root to customize plugin messages
 * Introduce optional helper classes to style some components via yaml
 * Refactor notices to CSS grid, set individual icons and colors in page, fix overlong texts
 * Configurable grid
 * Add overview of FontAwesome 4.0.3 to elements page
 * Add svg to hamburger menu to become truly iconfont agnostic, allowing updates
-* Add page lookup logic for url entries in sidebar
-* Add descriptions to sidebar entries
-* Add optional classes list-disc (default) | list-decimal | list-none to sidebar links
+* Predefined settings for `user/env/config/localhost` and `user/env/config/mysite.com` environments
 
 ### Legal
 * Host fonts locally to comply with [GDPR](https://www.cookieyes.com/documentation/features/integrations/google-fonts-and-gdpr/) in the EU
 * Disable popularity statistics to eliminate the need for a cookie banner
-* Add default Legal Notice page, as required by [national law](https://secureprivacy.ai/blog/what-is-an-impressum)
+* Add default Contact/Legal Notice page, as required by [national law](https://secureprivacy.ai/blog/what-is-an-impressum)
 * Link to Legal Notice in footer
 * Add credits and licenses
 * Add privacy policy placeholder, to be updated by yourself
