@@ -9,16 +9,16 @@ sitemap:
 
 banner:
     # leave url empty to disable banner
-    url: 'header_home-1500x960_q82.webp'
+    # url: 'header_home-1500x960_q82.webp'
     # headline: 'solstice'
-    position: '30% 42.5%'
+    # position: '30% 42.5%'
     # follower:
       # (values) bold | italic | uppercase | normal-case | small | skew
       # ... opacity-dark | opacity-light
       # class: 'uppercase'
       # text: 'Redux'
     blurb:
-      class: 'uppercase'
+      # class: 'uppercase'
       # comment-out line below to disable blurb
       # text: 'a performant theme for Grav CMS'
 
