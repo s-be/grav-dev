@@ -10,9 +10,9 @@ author:
 keywords: grav, theme, accessiblity, performance, maintenance, legal
 homepage: https://github.com/kittyfishfrommars/grav-skeleton-oxygen
 demo: https://kittyfishfrommars.github.io/grav/grav-theme-oxygen
-readme: https://github.com/kittyfishfrommars/blob/main/user/themes/oxygen/README.md
-bugs: https://github.com/kittyfishfrommars/issues
-changelog: https://github.com/kittyfishfrommars/blob/main/user/themes/oxygen/CHANGELOG.md
+readme: https://github.com/kittyfishfrommars/grav-skeleton-oxygen/blob/main/user/themes/oxygen/README.md
+bugs: https://github.com/kittyfishfrommars/grav-skeleton-oxygen/issues
+changelog: https://github.com/kittyfishfrommars/grav-skeleton-oxygen/blob/main/user/themes/oxygen/CHANGELOG.md
 license: MIT
 
 dependencies:
