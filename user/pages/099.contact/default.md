@@ -51,13 +51,13 @@ Alle Texte dieses Internetangebots stehen zur freien Vervielfältigung, insofern
 
 ### Attribution {#attribution .pt-3}
 <div class="color-link-text" markdown="1">
-[//]: # (* Entwickelt von [kittyfishfrommars](https://github.com/Kittyfishfrommars) unter der [MIT Lizenz](https://opensource.org/license/mit/), Modifikationen siehe [CHANGELOG](https://github.com/Kittyfishfrommars/grav-skeleton-oxygen/blob/main/user/themes/oxygen/CHANGELOG.md))
-* Die Entwicklung basiert auf dem [Grav Port von hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE), Modifikationen siehe [CHANGELOG.md](https://github.com/hughbris/grav-theme-solarize/blob/develop/CHANGELOG.md)
-* Design inspiriert durch „Solarize“ von [templated.co](https://templated.co) unter der [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/)
+* Entwickelt mit „Oxygen“ von [kittyfishfrommars](https://github.com/Kittyfishfrommars) unter der [MIT Lizenz](https://opensource.org/license/mit/), Modifikationen siehe [CHANGELOG.md](https://github.com/Kittyfishfrommars/grav-skeleton-oxygen/blob/main/user/themes/oxygen/CHANGELOG.md)
+* Basierend auf dem „Solarize“ Grav Port von [hughbris](https://github.com/hughbris/grav-theme-solarize/tree/develop) unter der [MIT License](https://github.com/hughbris/grav-theme-solarize/blob/develop/LICENSE)
+* CMS [Grav](https://getgrav.org/) veröffentlicht unter der [MIT License](https://github.com/getgrav/grav/blob/master/LICENSE.txt)
+* Design inspiriert von [templated.co](https://templated.co) unter der [Creative Commons 3.0 Attribution License](https://creativecommons.org/licenses/by/3.0/)
 * Font Awesome 4.0.3 von @davegandy - [https://fontawesome.io](http://fontawesome.io) - @fontawesome
 Lizenz - [https://fontawesome.io/license](http://fontawesome.io/license) (Font: SIL OFL 1.1, CSS: MIT License)
 * OpenSans[wdth,wght].woff2: Copyright 2020 The Open Sans Project Authors [https://github.com/googlefonts/opensans](https://github.com/googlefonts/opensans)
-* CMS [Grav](https://getgrav.org/) veröffentlicht unter der [MIT License](https://github.com/getgrav/grav/blob/master/LICENSE.txt)
 </div>
 
 ### Datenschutzhinweise {#datenschutz .pt-3}
