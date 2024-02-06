@@ -2,7 +2,7 @@
 
 # TODO: use exec.js with gulp.config.json values, calculate cut-dirs, add security for parameters
 # path to localhost directory
-SOURCE="http://localhost/s-be/grav-dev/"
+SOURCE="http://localhost/jxd/grav-jxd/"
 readonly SOURCE
 
 # path to destination dir
