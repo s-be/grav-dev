@@ -7,10 +7,10 @@ author:
   email: kittfishfrommars@gmail.com
   url: https://github.com/kittyfishfrommars
 keywords: grav, theme, accessiblity, performance, maintenance, legal
-homepage: https://github.com/kittyfishfrommars/grav-skeleton-oxygen
+homepage: https://github.com/kittyfishfrommars/grav-theme-oxygen
 demo: https://kittyfishfrommars.github.io/grav/grav-theme-oxygen
-readme: https://github.com/kittyfishfrommars/grav-skeleton-oxygen/blob/main/user/themes/oxygen/README.md
-bugs: https://github.com/kittyfishfrommars/grav-skeleton-oxygen/issues
+readme: https://github.com/kittyfishfrommars/grav-theme-oxygen/blob/main/README.md
+bugs: https://github.com/kittyfishfrommars/grav-theme-oxygen/issues
 license: MIT
 
 dependencies:

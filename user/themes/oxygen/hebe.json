@@ -1,5 +1,5 @@
 {
-    "project":"grav-skeleton-oxygen",
+    "project":"grav-theme-oxygen",
     "platforms":{
        "grav":{
           "nodes":{
