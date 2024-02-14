@@ -20,6 +20,7 @@ Disallow: /webserver-configs/
 Disallow: *.css$
 Disallow: *.js$
 Disallow: /system/*.js$
+Allow: /sitemap.xml
 Allow: /user/pages/
 Allow: /user/themes/
 Allow: /user/images/

@@ -1,0 +1,42 @@
+git:
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: master
+    markdown-notices:
+        url: https://github.com/getgrav/grav-plugin-markdown-notices
+        path: user/plugins/markdown-notices
+        branch: master
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: master
+    sitemap:
+        url: https://github.com/getgrav/grav-plugin-sitemap
+        path: user/plugins/sitemap
+        branch: master
+    oxygen:
+        url: https://github.com/kittyfisfrommars/grav-theme-oxygen
+        path: user/themes/oxygen
+        branch: master
+links:
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    markdown-notices:
+        src: grav-plugin-markdown-notices
+        path: user/plugins/markdown-notices
+        scm: github
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    sitemap:
+        src: grav-plugin-sitemap
+        path: user/plugins/problems
+        scm: github
+    oxygen:
+        src: grav-theme-oxygen
+        path: user/themes/oxygen
+        scm: github
