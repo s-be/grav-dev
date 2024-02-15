@@ -7,6 +7,8 @@ Oxygen by [kittyfishfrommars](https://github.com/kittyfishfrommars) is a continu
 ---
 Demo: [kittyfishfrommars.github.io](https://kittyfishfrommars.github.io/grav/grav-theme-oxygen)
 
+All-in-one package: [grav-skeleton-oxygen](https://github.com/kittyfishfrommars/grav-skeleton-oxygen/releases/)
+
 
 ## Summary
 
@@ -108,6 +110,8 @@ Manually updating this theme is pretty simple. Here is what you will need to do 
 * [kittyfishfrommars.github.io](https://kittyfishfrommars.github.io/grav/grav-theme-oxygen/) - Theme "Oxygen" developed by [kittyfishfrommars](https://github.com/kittyfishfrommars)
 * [juedisch.info](https://juedisch.info) - Jewish activism (german)
 * [behold.metamotive.co.nz](https://behold.metamotive.co.nz/solarize) - Original Grav port "Solarize" by [hughbris](https://github.com/hughbris/)
+
+Please drop me a line if you want yours to be included (hey, it's free publicity).
 
 ## Credits
 * Theme "Oxygen" developed by [kittyfishfrommars](https://github.com/Kittyfishfrommars) under the [MIT License](https://opensource.org/license/mit/), for modifications see [Changelog](https://github.com/Kittyfishfrommars/grav-theme-oxygen/blob/main/CHANGELOG.md)
