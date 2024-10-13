@@ -1,3 +1,9 @@
+# Subtree for jxd
+
+To update this theme with git, type in the top-level of the working tree:
+
+`git subtree pull --prefix oxygen git@github.com:kittyfishfrommars/grav-theme-oxygen.git main --squash`
+
 # Oxygen Theme
 
 Oxygen by [kittyfishfrommars](https://github.com/kittyfishfrommars) is a continuation of [hughbris](https://github.com/hughbris/grav-theme-solarize) work for [Grav CMS](http://github.com/getgrav/grav).
