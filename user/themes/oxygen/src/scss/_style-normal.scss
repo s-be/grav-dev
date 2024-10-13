@@ -5,7 +5,9 @@
 @media ( width <= 1280px ) {
 
     #logo {
-        display: none;
+        font-size: 0.56em !important;
+        font-weight: bold;
+        line-height: 7.2em !important;
     }
 
     #banner {

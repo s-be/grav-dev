@@ -4,19 +4,29 @@
 dist/
 assets/
 cache/
+.wget/
+
+# ignore specifix files
+wget.sh
 
 # specifically allow folders
 !images/
 
+# track this folder (i.e. do NOT ignore it)
+!user/data/*.*/
+!dist
+!vendor
+
 # track this file .gitignore (i.e. do NOT ignore it)
 !.gitignore
 !.htaccess
+!readme.md
 
 # track .editorconfig file (i.e. do NOT ignore it)
 !.editorconfig
 
-# track readme.md in the root (i.e. do NOT ignore it)
-!readme.md
+# ignore visual studio workspace
+*.code-workspace
 
 # ignore all files that start with ~
 ~*
@@ -48,7 +58,6 @@ Thumbs.db
 *.log
 
 # ignore compiled files
-*.com
 *.class
 *.dll
 *.exe
