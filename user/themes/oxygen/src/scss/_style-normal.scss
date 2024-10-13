@@ -1,0 +1,19 @@
+@use "_config.scss" as config;
+
+/* Basic */
+
+@media ( width <= 1280px ) {
+
+    #logo {
+        font-size: 1.5em;
+        line-height: 2.5em;
+    }
+
+    #banner {
+        height: 22.5em;
+    }
+
+    .grid-default {
+        grid-template-columns: repeat(config.$grid-columns-lg);
+    }
+}

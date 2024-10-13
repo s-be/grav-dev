@@ -1,0 +1,78 @@
+title: Default
+extends@:
+  type: default
+  context: blueprints://pages
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+
+      fields:
+          content:
+            fields:
+              spacer:
+                type: spacer
+                # title: A title
+                # text: Some text
+                underline: true
+                # ordering@: content
+                ordering@: PageMedia
+              header.banner:
+                ordering@: spacer
+                type: fieldset
+                title: Banner
+                # help: 'optional'
+                info: ' click to expand'
+                # text: 'Leave text fields blank'
+                icon: camera
+                collapsed: true
+                collapsible: true
+                fields:
+                  .url:
+                    type: mediapicker
+                    folder: 'self@'
+                    label: Image
+                    help: 'Leave blank for none. Please refer to demo for image dimensions.'
+                    preview_images: true
+                  .position:
+                    type: text
+                    label: Position
+                    help: 'CSS values for background-position'
+                    default: 'center center'
+                  .headline:
+                    type: text
+                    label: (Optional) Headline
+                    help: 'Leave blank for none.'
+                  .blurb.text:
+                    type: text
+                    label: (Optional) Blurb text
+                    help: 'Leave blank for none.'
+                  .blurb.class:
+                    type: text
+                    label: (Optional) Blurb class
+                    help: 'Custom pre-defined CSS classes.'
+                    class: 'uppercase'
+              header.pageOptions:
+                ordering@: banner
+                # type: section
+                type: fieldset
+                title: Page Options
+                info: ' click to expand'
+                # underline: true
+                icon: cog
+                collapsed: true
+                collapsible: true
+                fields:
+                  .noIndex:
+                    type: toggle
+                    label: Allow this specific page to be indexed by search engines
+                    help: '(Default: enabled) This page may be indexed by search engines. Please make sure that the the entire site can be indexed via THEME OPTIONS.'
+                    default: 0
+                    highlight: 0
+                    options:
+                      1: PLUGIN_ADMIN.DISABLED
+                      0: PLUGIN_ADMIN.ENABLED
+                    validate:
+                      type: bool
