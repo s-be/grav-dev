@@ -1,8 +1,18 @@
-# Subtree for jxd
+### Working with Git: initialize subtree for theme updates
 
-To update this theme with git, type in the top-level of the working tree:
+Please refer to this short [subtree tutorial](https://gist.github.com/SKempin/b7857a6ff6bddb05717cc17a44091202)
 
-`git subtree pull --prefix oxygen git@github.com:kittyfishfrommars/grav-theme-oxygen.git main --squash`
+To update this subtree, navigate to the project root and:
+
+`git subtree pull --prefix user/themes/oxygen git@github.com:kittyfishfrommars/grav-theme-oxygen.git main --squash`
+
+Conversely the following commands are useful via the same syntax:
+
+`git subtree add` to create a new subtree
+`git subtree push` to push to the upstream
+
+Any regular `push` will update the changed files to your host repository, not the upstream, which is desired in most cases.
+
 
 # Oxygen Theme
 
