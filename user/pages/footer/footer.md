@@ -1,6 +1,7 @@
 ---
 title: Footer
-robots: noindex,nofollow
+pageOptions:
+  noIndex: true
 routable: false
 visible: false
 expires: 0

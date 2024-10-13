@@ -1,6 +1,7 @@
 ---
 title: Seite nicht gefunden
-robots: noindex,nofollow
+pageOptions:
+  noIndex: true
 template: error
 routable: false
 visible: false
@@ -9,6 +10,8 @@ twig_first: true
 process:
   twig: true
 expires: 0
+pageOptions:
+  noIndex: true
 sitemap:
    ignore: true
 ---

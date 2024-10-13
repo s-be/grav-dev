@@ -4,7 +4,8 @@ title: 'Impressum'
 menu: 'Kontakt'
 slug: 'impressum'
 visible: true
-robots: noindex,nofollow
+pageOptions:
+  noIndex: true
 # grav-plugin-sitemap overrides
 sitemap:
    changefreq: monthly

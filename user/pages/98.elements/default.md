@@ -1,7 +1,8 @@
 ---
 title: Elements
 visible: false
-robots: noindex,nofollow
+pageOptions:
+  noIndex: true
 sitemap:
   ignore: true
 ---
