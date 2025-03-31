@@ -5,6 +5,6 @@ author:
   name: Joe Bloggs
   email: 'joe@example.com'
 metadata:
-    description: 'Grav is an easy to use, yet powerful, open source flat-file CMS'
+    description: 'A crazy fast, accessible and GDPR-compliant theme out of the box + build tools.'
 # do not remove taxonomy tag (identifier required in templates/partials/footer.html.twig)
 taxonomies: [tag]

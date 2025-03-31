@@ -151,7 +151,8 @@ assets:
   enable_asset_timestamp: false
   enable_asset_sri: false
   collections:
-    # jquery: 'system://assets/jquery/jquery-3.x.min.js'
+    # disable grav bundled jquery version, do not include in js pipeline
+    jquery: 'system://assets/jquery/jquery-3.x.min.js'
 errors:
   display: 1
   log: true
@@ -195,7 +196,7 @@ media:
 session:
   enabled: true
   initialize: false
-  timeout: 1800
+  timeout: 9000
   name: site
   uniqueness: path
   secure: false

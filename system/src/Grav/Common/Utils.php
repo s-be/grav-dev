@@ -989,6 +989,8 @@ abstract class Utils
             || strtr($filename, "\t\v\n\r\0\\/", '_______') !== $filename
             // Filename should not start or end with dot or space.
             || trim($filename, '. ') !== $filename
+            // Filename should not contain path traversal
+            || str_replace('..', '', $filename) !== $filename
             // File extension should not be part of configured dangerous extensions
             || in_array($extension, $dangerous_extensions)
         );
@@ -1330,7 +1332,11 @@ abstract class Utils
         if ($dateformat) {
             $datetime = DateTime::createFromFormat($dateformat, $date);
         } else {
-            $datetime = new DateTime($date);
+            try {
+                $datetime = new DateTime($date);
+            } catch (Exception $e) {
+                $datetime = false;
+            }
         }
 
         // fallback to strtotime() if DateTime approach failed
@@ -1880,6 +1886,14 @@ abstract class Utils
         }
 
         return $string;
+    }
+
+    public static function toAscii(String $string): String
+    {
+        return strtr(utf8_decode($string),
+            utf8_decode(
+            'ŠŒŽšœžŸ¥µÀÁÂÃÄÅÆÇÈÉÊËÌÍÎÏÐÑÒÓÔÕÖØÙÚÛÜÝßàáâãäåæçèéêëìíîïðñòóôõöøùúûüýÿ'),
+            'SOZsozYYuAAAAAAACEEEEIIIIDNOOOOOOUUUUYsaaaaaaaceeeeiiiionoooooouuuuyy');
     }
 
     /**

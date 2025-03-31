@@ -1,36 +1,14 @@
-<div id="footer">
-	{% for page in taxonomy.findTaxonomy({'tag':'unique-footer'}) %}
-		{% set footer = page.header.social %}
+{% for page in taxonomy.findTaxonomy({'tag':'id-footer'}) %}
 
-		<section class="container">
-			<header class="major">
-				<h2>{{ footer.headline|raw }}</h2>
-				<span class="byline {{ footer.byline.class }}">{{ footer.byline.text|raw }}</span>
-			</header>
+	{% include 'partials/modular.html.twig' %}
 
-			{% if footer.button %}
-				<div class="mb-3">
-					<a href="{{ footer.button.url }}" class="button button-secondary {{ footer.button.class }}">
-						{{ footer.button.text }}
-					</a>
-				</div>
-			{% endif %}
+	<div class="socials pt-0 pb-0">
 
-			{% if footer.items %}
-				<ul class="icons {% if footer.button %} pt-3 {% endif %}">
-				{% for item in footer.items %}
-					<li><a href="{{ item.url }}" class="{{ item.icon }}" aria-label="{{ item.title }}"><span>{{ item.title }}</span></a></li>
-				{% endfor %}
-				</ul>
-			{% endif %}
-
-			<hr />
+		<section class="container pt-0 pb-0">
+			<div class="socials-links small">
+				{{ page.content|raw }}
+			</div>
 		</section>
 
-		{% for post in taxonomy.findTaxonomy({'tag':'unique-legal'}) %}
-			<div id="copyright">
-				<a href="{{ post.url ~ footer.legal.credits.id }}">{{ footer.legal.credits.title|e }}</a> | <a href="{{ post.url ~ footer.legal.privacy.id }}">{{ footer.legal.privacy.title|e }}</a> | <a href="{{ post.url ~ footer.legal.notice.id }}">{{ footer.legal.notice.title|e }}</a>
-			</div>
-		{% endfor %}
-	{% endfor %}
-</div>
+	</div>
+{% endfor %}

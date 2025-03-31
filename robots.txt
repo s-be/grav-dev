@@ -1,9 +1,4 @@
 User-agent: *
-Disallow: /impressum/
-Disallow: /imprint/
-Disallow: /legal/
-Disallow: /contact/
-Disallow: /elements/
 Disallow: /.github/
 Disallow: /.phan/
 Disallow: /assets/
@@ -17,11 +12,10 @@ Disallow: /tmp/
 Disallow: /user/
 Disallow: /vendor/
 Disallow: /webserver-configs/
-Disallow: *.css$
-Disallow: *.js$
-Disallow: /system/*.js$
-Allow: /sitemap.xml
 Allow: /user/pages/
 Allow: /user/themes/
 Allow: /user/images/
 Allow: /
+Allow: *.css$
+Allow: *.js$
+Allow: /system/*.js$

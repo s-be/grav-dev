@@ -206,7 +206,7 @@ class Uri
         $uri = $language->setActiveFromUri($uri);
 
         // split the URL and params (and make sure that the path isn't seen as domain)
-        $bits = parse_url('http://domain.com' . $uri);
+        $bits = static::parseUrl('http://domain.com' . $uri);
 
         //process fragment
         if (isset($bits['fragment'])) {
@@ -264,6 +264,7 @@ class Uri
 
         return $this->paths;
     }
+
 
     /**
      * Return route to the current URI. By default route doesn't include base path.
@@ -742,7 +743,7 @@ class Uri
      */
     public static function isExternal($url)
     {
-        return (0 === strpos($url, 'http://') || 0 === strpos($url, 'https://') || 0 === strpos($url, '//'));
+        return (0 === strpos($url, 'http://') || 0 === strpos($url, 'https://') || 0 === strpos($url, '//') || 0 === strpos($url, 'mailto:') || 0 === strpos($url, 'tel:') || 0 === strpos($url, 'ftp://') || 0 === strpos($url, 'ftps://') || 0 === strpos($url, 'news:') || 0 === strpos($url, 'irc:') || 0 === strpos($url, 'gopher:') || 0 === strpos($url, 'nntp:') || 0 === strpos($url, 'feed:') || 0 === strpos($url, 'cvs:') || 0 === strpos($url, 'ssh:') || 0 === strpos($url, 'git:') || 0 === strpos($url, 'svn:') || 0 === strpos($url, 'hg:'));
     }
 
     /**
@@ -954,9 +955,7 @@ class Uri
         $grav = Grav::instance();
 
         // Remove extra slash from streams, parse_url() doesn't like it.
-        if ($pos = strpos($url, ':///')) {
-            $url = substr_replace($url, '://', $pos, 4);
-        }
+        $url = preg_replace('/([^:])(\/{2,})/', '$1/', $url);
 
         $encodedUrl = preg_replace_callback(
             '%[^:/@?&=#]+%usD',
@@ -1408,14 +1407,13 @@ class Uri
      */
     public function getContentType($short = true)
     {
-        if (isset($_SERVER['CONTENT_TYPE'])) {
-            $content_type = $_SERVER['CONTENT_TYPE'];
+       $content_type = $_SERVER['CONTENT_TYPE'] ?? $_SERVER['HTTP_CONTENT_TYPE'] ?? $_SERVER['HTTP_ACCEPT'] ?? null;
+        if ($content_type) {
             if ($short) {
                 return Utils::substrToString($content_type, ';');
             }
-            return $content_type;
         }
-        return null;
+        return $content_type;
     }
 
     /**
